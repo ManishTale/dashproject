@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="53.1" viewBox="0 0 62 53.1">
+  <title>upload-photo</title>
+  <g>
+    <path fill="#000000" d="M113.3,125.2l-3.4-3.4,2.5-1.2a.5.5,0,0,0,.2-.7h0l-.3-.2-4.1-1.4V104.5a.5.5,0,0,0-.5-.5H87.9a.5.5,0,0,0-.5.5v16.6a.5.5,0,0,0,.5.5h16l1.7,4.9a.5.5,0,0,0,.7.2l.2-.2,1.2-2.5,3.4,3.4h.7l1.5-1.5h.1A.5.5,0,0,0,113.3,125.2ZM88.4,105h18.9v9.6l-4.9-4.9a.5.5,0,0,0-.7,0l-6.6,6.6-2.2-2.2a.5.5,0,0,0-.7,0L88.3,118Zm0,15.7v-1.3l4.2-4.2,2.2,2.2a.5.5,0,0,0,.7,0l6.6-6.6,5.2,5.2v2l-4.3-1.5a.5.5,0,0,0-.6.6l1.2,3.6Zm23,5.7-3.5-3.5h-.5l-.3.3-1,2.1-1.4-4.1h0l-1.1-3.3,7.4,2.6-2.1,1a.5.5,0,0,0-.2.7h.1l3.5,3.5Z" transform="translate(-66.4 -74.3)"/>
+    <path fill="#000000" d="M93.7,112.1a2.3,2.3,0,1,1,2.3-2.3A2.4,2.4,0,0,1,93.7,112.1Zm0-3.7a1.4,1.4,0,1,0,1.4,1.4h0a1.4,1.4,0,0,0-1.4-1.4Z" transform="translate(-66.4 -74.3)"/>
+  </g>
+  <g>
+    <text fill="#000000" transform="translate(0 10.3)" font-size="12" font-family="RobotoSlab-Light, Roboto Slab">Drag Photo</text>
+    <text fill="#000000" transform="translate(17.7 24.7)" font-size="12" font-family="RobotoSlab-Light, Roboto Slab">Here</text>
+  </g>
+</svg>

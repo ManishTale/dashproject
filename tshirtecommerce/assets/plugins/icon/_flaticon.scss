@@ -1,0 +1,109 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 20/09/2017 07:05
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-interface:before { content: "\f100"; }
+.flaticon-circle:before { content: "\f101"; }
+.flaticon-location:before { content: "\f102"; }
+.flaticon-like-1:before { content: "\f103"; }
+.flaticon-link:before { content: "\f104"; }
+.flaticon-back:before { content: "\f105"; }
+.flaticon-next:before { content: "\f106"; }
+.flaticon-shopping-cart-1:before { content: "\f107"; }
+.flaticon-gift:before { content: "\f108"; }
+.flaticon-shopping-cart:before { content: "\f109"; }
+.flaticon-medical:before { content: "\f10a"; }
+.flaticon-interface-1:before { content: "\f10b"; }
+.flaticon-stop:before { content: "\f10c"; }
+.flaticon-symbol-3:before { content: "\f10d"; }
+.flaticon-signs-2:before { content: "\f10e"; }
+.flaticon-signs-1:before { content: "\f10f"; }
+.flaticon-arrows:before { content: "\f110"; }
+.flaticon-symbol-2:before { content: "\f111"; }
+.flaticon-attachment:before { content: "\f112"; }
+.flaticon-symbol-1:before { content: "\f113"; }
+.flaticon-signs:before { content: "\f114"; }
+.flaticon-symbol:before { content: "\f115"; }
+.flaticon-cross:before { content: "\f116"; }
+.flaticon-error:before { content: "\f117"; }
+.flaticon-add:before { content: "\f118"; }
+.flaticon-info:before { content: "\f119"; }
+.flaticon-placeholder-2:before { content: "\f11a"; }
+.flaticon-placeholder-1:before { content: "\f11b"; }
+.flaticon-plus:before { content: "\f11c"; }
+.flaticon-star-1:before { content: "\f11d"; }
+.flaticon-play-button:before { content: "\f11e"; }
+.flaticon-star:before { content: "\f11f"; }
+.flaticon-success:before { content: "\f120"; }
+.flaticon-like:before { content: "\f121"; }
+.flaticon-placeholder:before { content: "\f122"; }
+    
+    $font-Flaticon-interface: "\f100";
+    $font-Flaticon-circle: "\f101";
+    $font-Flaticon-location: "\f102";
+    $font-Flaticon-like-1: "\f103";
+    $font-Flaticon-link: "\f104";
+    $font-Flaticon-back: "\f105";
+    $font-Flaticon-next: "\f106";
+    $font-Flaticon-shopping-cart-1: "\f107";
+    $font-Flaticon-gift: "\f108";
+    $font-Flaticon-shopping-cart: "\f109";
+    $font-Flaticon-medical: "\f10a";
+    $font-Flaticon-interface-1: "\f10b";
+    $font-Flaticon-stop: "\f10c";
+    $font-Flaticon-symbol-3: "\f10d";
+    $font-Flaticon-signs-2: "\f10e";
+    $font-Flaticon-signs-1: "\f10f";
+    $font-Flaticon-arrows: "\f110";
+    $font-Flaticon-symbol-2: "\f111";
+    $font-Flaticon-attachment: "\f112";
+    $font-Flaticon-symbol-1: "\f113";
+    $font-Flaticon-signs: "\f114";
+    $font-Flaticon-symbol: "\f115";
+    $font-Flaticon-cross: "\f116";
+    $font-Flaticon-error: "\f117";
+    $font-Flaticon-add: "\f118";
+    $font-Flaticon-info: "\f119";
+    $font-Flaticon-placeholder-2: "\f11a";
+    $font-Flaticon-placeholder-1: "\f11b";
+    $font-Flaticon-plus: "\f11c";
+    $font-Flaticon-star-1: "\f11d";
+    $font-Flaticon-play-button: "\f11e";
+    $font-Flaticon-star: "\f11f";
+    $font-Flaticon-success: "\f120";
+    $font-Flaticon-like: "\f121";
+    $font-Flaticon-placeholder: "\f122";

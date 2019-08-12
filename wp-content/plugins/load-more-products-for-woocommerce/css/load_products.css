@@ -1,0 +1,62 @@
+.lmp_products_loading, .lmp_load_more_button {
+    width: 100%;
+    text-align: center;
+    clear: both;
+}
+.lmp_products_loading .fa {
+    width: 56px;
+    height: 56px;
+    font-size: 28px;
+    line-height: 56px;
+}
+.lmp_products_loading .fa img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.br_loading_inside_lmp img.lmp_rotate,
+.br_loading_inside_lmp .fa.lmp_rotate:before,
+.lmp_products_loading .lmp_rotate,
+.lmp_products_loading .fa.lmp_rotate:before,
+.lmp_products_loading .lmp_rotate img {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-animation:spin 2s linear infinite;
+    -moz-animation:spin 2s linear infinite;
+    animation:spin 2s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+.lmp_load_more_button .lmp_button {
+    position: relative;
+    display: inline-block;
+    font-size: 22px;
+    text-decoration: none;
+    line-height: 1em;
+    box-sizing: border-box;
+}
+.lmp_load_more_button .lmp_button img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.berocket_lmp_hidden {
+    display: none!important;
+}
+.lmp_load_more_button .lmp_button .br_lmp_hover_image {display: none;}
+.lmp_load_more_button .lmp_button:hover .br_lmp_button_image {display: none;}
+.lmp_load_more_button .lmp_button:hover .br_lmp_hover_image {display: initial;}
+.lmp_load_more_button .lmp_button .br_lmp_loading_image {display: none;}
+.berocket_lmp_ajax_loading .lmp_load_more_button .lmp_button .br_lmp_button_image {display: none;}
+.berocket_lmp_ajax_loading .lmp_load_more_button .lmp_button .br_lmp_hover_image {display: none;}
+.berocket_lmp_ajax_loading .lmp_load_more_button .lmp_button .br_lmp_loading_image {display: initial;}
+.lmp_load_more_button .lmp_button .br_lmp_button_image {display: initial;}
+.lmp_load_more_button .lmp_button .br_loading_inside_image_lmp {
+    position: absolute;
+}
+.berocket_load_more_preload {
+    position: fixed;
+    opacity: 1;
+    top:150%;
+}

@@ -1,0 +1,9 @@
+[
+"addons/admin/config/text-setup.php",
+"addons/admin/language/text-setup.ini",
+"addons/admin/product-fields/text-setup.php",
+"addons/install/text-default-setup.json",
+"addons/js/text-setup.js",
+"addons/lang-js/text-setup.php",
+"addons/remove/text-default-setupp.json"
+]

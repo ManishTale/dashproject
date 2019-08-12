@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Cancel Order\n"
+"POT-Creation-Date: 2017-04-26 17:57+0530\n"
+"PO-Revision-Date: 2017-04-26 17:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-wc-email-cancel-request-approved-order.php:19
+msgid "Cancellation request accepted"
+msgstr "रद्दीकरण अनुरोध स्वीकार किए जाते हैं"
+
+#: includes/class-wc-email-cancel-request-approved-order.php:20
+msgid ""
+"This is an order notification sent to the customer when order cancellation request "
+"accepted."
+msgstr "यह एक आदेश सूचना ग्राहक को भेजा जाता है जब आदेश रद्द करने के अनुरोध को स्वीकार कर लिया।"
+
+#: includes/class-wc-email-cancel-request-approved-order.php:21
+msgid "Order cancellation request accepted"
+msgstr "ऑर्डर रद्द करने के अनुरोध को स्वीकार कर लिया"
+
+#: includes/class-wc-email-cancel-request-approved-order.php:22
+msgid "Order No: {order_number} cancellation request accepted "
+msgstr "आदेश सं: स्वीकार किए जाते हैं {order_number} रद्दीकरण अनुरोध"
+
+#: includes/class-wc-email-cancel-request-order.php:18
+msgid "Cancellation request"
+msgstr "रद्दीकरण अनुरोध"
+
+#: includes/class-wc-email-cancel-request-order.php:19
+msgid ""
+"This is an order notification sent to the admin when customer send the order cancellation "
+"request."
+msgstr "यह एक आदेश सूचना ग्राहक भेजने जब ऑर्डर रद्दीकरण अनुरोध व्यवस्थापक को भेजा है।"
+
+#: includes/class-wc-email-cancel-request-order.php:20
+msgid "Order cancellation request received"
+msgstr "ऑर्डर रद्द करने के अनुरोध प्राप्त"
+
+#: includes/class-wc-email-cancel-request-order.php:21
+msgid "Order No: {order_number} cancellation request received"
+msgstr "आदेश सं: प्राप्त {order_number} रद्दीकरण अनुरोध"
+
+#: includes/class-wc-email-cancel-request-order.php:100
+msgid "Enable/Disable"
+msgstr "सक्षम करें /"
+
+#: includes/class-wc-email-cancel-request-order.php:102
+msgid "Enable this email notification"
+msgstr "इस ई-मेल सूचना सक्षम करें"
+
+#: includes/class-wc-email-cancel-request-order.php:106
+msgid "Recipient(s)"
+msgstr "प्राप्तकर्ता (ओं)"
+
+#: includes/class-wc-email-cancel-request-order.php:108
+#, php-format
+msgid "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
+msgstr "प्राप्तकर्ता (अल्पविराम से अलग) इस ईमेल के लिए दर्ज करें। करने के लिए चूक <code>%s</code> ।"
+
+#: includes/class-wc-email-cancel-request-order.php:114
+msgid "Subject"
+msgstr "विषय"
+
+#: includes/class-wc-email-cancel-request-order.php:116
+#, php-format
+msgid ""
+"This controls the email subject line. Leave blank to use the default subject: <code>%s</"
+"code>."
+msgstr ""
+"यह ईमेल विषय पंक्ति को नियंत्रित करता है। डिफ़ॉल्ट विषय का उपयोग करने के लिए खाली छोड़ दें: <code>%s</"
+"code> ."
+
+#: includes/class-wc-email-cancel-request-order.php:122
+msgid "Email Heading"
+msgstr "ईमेल शीर्षक"
+
+#: includes/class-wc-email-cancel-request-order.php:124
+#, php-format
+msgid ""
+"This controls the main heading contained within the email notification. Leave blank to "
+"use the default heading: <code>%s</code>."
+msgstr ""
+"यह ईमेल सूचना के भीतर निहित मुख्य शीर्षक को नियंत्रित करता है। डिफ़ॉल्ट शीर्षक का उपयोग करने के लिए "
+"खाली छोड़ दें: <code>%s</code> ."
+
+#: includes/class-wc-email-cancel-request-order.php:130
+msgid "Email type"
+msgstr "ई-मेल प्रकार"
+
+#: includes/class-wc-email-cancel-request-order.php:132
+msgid "Choose which format of email to send."
+msgstr "ईमेल भेजने के लिए का जो स्वरूप का चयन करें।"
+
+#: includes/class-wc-email-cancel-request-reject-order.php:18
+#: includes/class-wc-email-cancel-request-reject-order.php:20
+msgid "Order cancellation request denied"
+msgstr "ऑर्डर रद्दीकरण अनुरोध अस्वीकृत"
+
+#: includes/class-wc-email-cancel-request-reject-order.php:19
+msgid ""
+"This is an order notification sent to the customer when the order cancellation request "
+"denied."
+msgstr "यह एक आदेश सूचना ऑर्डर रद्दीकरण अनुरोध अस्वीकृत कर दिया, जब ग्राहक को भेजा गया है।"
+
+#: includes/class-wc-email-cancel-request-reject-order.php:21
+msgid "Order NO: {order_number} cancellation request denied"
+msgstr "आदेश सं: निषेध {order_number} रद्दीकरण अनुरोध"
+
+#: includes/wc-cancel-dashboard.php:58
+msgid "Unpublished"
+msgstr "अप्रकाशित"
+
+#: includes/wc-cancel-dashboard.php:60
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: includes/wc-cancel-dashboard.php:63
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/wc-cancel-dashboard.php:70
+msgid "Yes"
+msgstr "हाँ"
+
+#: includes/wc-cancel-dashboard.php:73
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d आइटम"
+msgstr[1] "%d आइटम"
+
+#: includes/wc-cancel-dashboard.php:101 includes/wc-cancel-dashboard.php:107
+msgid "Via"
+msgstr "के माध्यम से"
+
+#: includes/wc-cancel-dashboard.php:115
+msgid "Billing:"
+msgstr "बिलिंग:"
+
+#: includes/wc-cancel-dashboard.php:120
+msgid "Tel:"
+msgstr "टेली:"
+
+#: includes/wc-cancel-dashboard.php:145
+msgid "Guest"
+msgstr "अतिथि"
+
+#: includes/wc-cancel-dashboard.php:150
+#, php-format
+msgid "%s by %s"
+msgstr "%s द्वारा %s "
+
+#: includes/wc-cancel-dashboard.php:165 includes/wc-cancel-dashboard.php:225
+msgid "Accept Cancellation"
+msgstr "रद्दीकरण को स्वीकार"
+
+#: includes/wc-cancel-dashboard.php:166 includes/wc-cancel-dashboard.php:226
+msgid "Deny Cancellation"
+msgstr "रद्दीकरण अस्वीकार"
+
+#: includes/wc-cancel-dashboard.php:169
+msgid "View"
+msgstr "देखें"
+
+#: includes/wc-cancel-dashboard.php:172
+msgid "Cancellation Accepted"
+msgstr "स्वीकार किए जाते हैं रद्द"
+
+#: includes/wc-cancel-dashboard.php:203
+msgid "Status"
+msgstr "स्थिति"
+
+#: includes/wc-cancel-dashboard.php:204
+msgid "Order"
+msgstr "आर्डर"
+
+#: includes/wc-cancel-dashboard.php:205
+msgid "Purchased"
+msgstr "खरीदी"
+
+#: includes/wc-cancel-dashboard.php:206
+msgid "Ship to"
+msgstr "भेजा गया"
+
+#: includes/wc-cancel-dashboard.php:207
+msgid "Customer Message"
+msgstr "ग्राहक संदेश"
+
+#: includes/wc-cancel-dashboard.php:208
+msgid "Date"
+msgstr "तिथि"
+
+#: includes/wc-cancel-dashboard.php:209
+msgid "Total"
+msgstr "कुल"
+
+#: includes/wc-cancel-dashboard.php:210
+msgid "Actions"
+msgstr "क्रियाएं"
+
+#: includes/wc-cancel-dashboard.php:224
+msgid "Delete"
+msgstr "हटाएं"
+
+#: templates/emails/cancel-request-approve-order.php:1
+#: templates/emails/plain/cancel-request-approve-order.php:1
+#, php-format
+msgid ""
+"Your order cancellation request is accepted and order #%s has been cancelled. The order "
+"was as follows:"
+msgstr ""
+"आपका आदेश रद्द करने के अनुरोध को स्वीकार कर लिया है और # %s आदेश रद्द कर दिया गया है। क्रम इस प्रकार "
+"था:"
+
+#: templates/emails/cancel-request-order.php:1
+#: templates/emails/plain/cancel-request-order.php:1
+msgid ""
+"Order cancellation request is received and order has been put on hold. The order details "
+"are shown below for your reference:"
+msgstr ""
+"ऑर्डर रद्द करने के अनुरोध प्राप्त हुआ है और ऑर्डर होल्ड पर डाल दिया गया है। आदेश विवरण आपके संदर्भ के लिए "
+"नीचे दिखाए गए हैं:"
+
+#: templates/emails/cancel-request-rejecte-order.php:1
+#: templates/emails/plain/cancel-request-rejecte-order.php:1
+msgid ""
+"Your order cancellation request denied and is now being processed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+"आपके ऑर्डर रद्दीकरण अनुरोध इनकार कर दिया और अब संसाधित किया जा रहा है। अपने ऑर्डर विवरण आपके संदर्भ "
+"के लिए नीचे दिखाए गए हैं:"
+
+#: wc-cancel-order.php:72
+msgid "WC Cancel"
+msgstr "WC कैंसिल"
+
+#: wc-cancel-order.php:92
+msgid "Get Pro"
+msgstr "प्रो प्राप्त करें"
+
+#: wc-cancel-order.php:153
+#, php-format
+msgid "Cancel Request <span class=\"count\">(%s)</span>"
+msgid_plural "Cancel Request <span class=\"count\">(%s)</span>"
+msgstr[0] "रद्द अनुरोध <span class=\"count\">(%s)</span>"
+msgstr[1] "रद्द अनुरोध <span class=\"count\">(%s)</span>"
+
+#: wc-cancel-order.php:164
+msgid "Cancel Request"
+msgstr "अनुरोध रद्द करें"
+
+#: wc-cancel-order.php:175 wc-cancel-order.php:203 wc-cancel-order.php:230
+#: wc-cancel-order.php:302
+msgid "You do not have sufficient permissions to access this page."
+msgstr "आप इस पृष्ठ का उपयोग करने के लिए पर्याप्त अनुमतियाँ नहीं है।"
+
+#: wc-cancel-order.php:180 wc-cancel-order.php:208 wc-cancel-order.php:235
+msgid "You have taken too long. Please go back and retry."
+msgstr "तुम भी लंबे समय ले लिया है। कृपया वापस जाएँ और पुन: प्रयास करें।"
+
+#: wc-cancel-order.php:264
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#: wc-cancel-order.php:291
+#, php-format
+msgid "Item #%s stock incremented from %s to %s."
+msgstr "आइटम %s # शेयर करने के लिए %s %s से वृद्धि होती।"
+
+#: wc-cancel-order.php:315
+msgid "Cancellation Request"
+msgstr "रद्दीकरण अनुरोध"
+
+#~ msgid "Reason"
+#~ msgstr "कारण"
+
+#~ msgid "Wc Cancel Order Options"
+#~ msgstr "Wc कैंसिल आदेश विकल्प"
+
+#~ msgid "Button Text"
+#~ msgstr "बटन पाठ"
+
+#~ msgid "Ask For Confirmation"
+#~ msgstr "पुष्टि करने के लिए पूछें"
+
+#~ msgid "Confirm Before Cancellation Request"
+#~ msgstr "रद्दीकरण अनुरोध करने से पहले की पुष्टि करें"
+
+#~ msgid "Confirmation Text"
+#~ msgstr "पुष्टि पाठ"
+
+#~ msgid "Are you sure, you want to proceed ?"
+#~ msgstr "क्या वाकई आप आगे बढ़ना चाहते हैं?"
+
+#~ msgid "Success Message"
+#~ msgstr "सफलता संदेश"
+
+#~ msgid "We are processing your request."
+#~ msgstr "हम आपके अनुरोध को संसाधित कर रहे हैं।"
+
+#~ msgid "Ask For Cancellation Reason"
+#~ msgstr "रद्द करने के लिए कारण पूछ"
+
+#~ msgid "Order Cancellation Reason"
+#~ msgstr "ऑर्डर रद्द करने के कारण"
+
+#~ msgid "Hide Cancellation Button"
+#~ msgstr "रद्दीकरण बटन छुपाएँ"
+
+#~ msgid "Hide Order Cancellation Button When Order Status is "
+#~ msgstr "छुपाएँ आदेश रद्द करना बटन जब आदेश स्थिति है"
+
+#~ msgid ""
+#~ "Your order cancellation request is accepted and order from %s has been cancelled. The "
+#~ "order was as follows:"
+#~ msgstr ""
+#~ "आपका आदेश रद्द करने के अनुरोध को स्वीकार कर लिया है और %s से ऑर्डर रद्द कर दिया गया है। क्रम "
+#~ "निम्नानुसार थी:"
+
+#~ msgid ""
+#~ "Order cancellation request is received and order has been put on hold. Your order "
+#~ "details are shown below for your reference:"
+#~ msgstr ""
+#~ "ऑर्डर रद्द करने के अनुरोध प्राप्त हुआ है और ऑर्डर होल्ड पर डाल दिया गया है। अपने ऑर्डर विवरण आपके "
+#~ "संदर्भ के लिए नीचे दिखाए गए हैं:"
+
+#~ msgid "Reason for cancellation"
+#~ msgstr "रद्द करने के लिए कारण"
+
+#~ msgid "Confirm Cancellation"
+#~ msgstr "रद्दीकरण की पुष्टि करें"
+
+#~ msgid "Settings"
+#~ msgstr "सेटिंग्स"
+
+#~ msgid ""
+#~ "Your order cancellation request is accepted and order #%d from %s has been cancelled. "
+#~ "The order was as follows:"
+#~ msgstr ""
+#~ "आपके ऑर्डर रद्दीकरण अनुरोध स्वीकार कर लिया है और आदेश # %d %s से रद्द कर दिया गया है। क्रम "
+#~ "निम्नानुसार थी:"
+
+#~ msgid "Denied Cancellation"
+#~ msgstr "रद्द करने के निषेध"
+
+#~ msgid "Wc Cancel"
+#~ msgstr "WC कैंसिल"

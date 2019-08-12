@@ -1,0 +1,7 @@
+wp-config.php
+wp-content/uploads/*
+
+
+
+
+.gitignore wp-config.php wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php wp-content/plugins/yith-woocommerce-wishlist/assets/js/unminified/jquery.yith-wcwl.js wp-content/plugins/yith-woocommerce-wishlist/templates/wishlist-view.php wp-content/themes/twentynineteen/Faq_Template.php wp-content/themes/twentynineteen/Shipping-And-Returns_Template.php wp-content/themes/twentynineteen/footer.php wp-content/themes/twentynineteen/functions.php wp-content/themes/twentynineteen/header.php wp-content/themes/twentynineteen/home_template.php

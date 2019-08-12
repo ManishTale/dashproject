@@ -1,0 +1,81 @@
+body,.dg-box .accordion{font-family:'Roboto Slab',serif;font-weight:300;font-size:13px}
+.dg-box label{color:#333;font-weight:300}
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:'Roboto Slab',serif;font-weight:300}
+.menu-left li > a{color:#666;font-size:13px;font-weight:400;padding:10px;text-shadow:none;display:block;}
+.dg-box .ui-accordion .ui-accordion-header{color:#666;font-size:13px;font-weight:400;text-shadow:none}
+#product-attributes .form-group{margin-bottom:15px}
+#product-attributes .list-number li{margin:8px 0}
+.popover.right{margin-left:15px}
+.popover{width:270px}
+small{font-size:12px}
+.dg-options-content > .row{line-height:22px;padding-top:6px}
+.product-price-info *{font-weight:400}
+.product-price-list{padding-left:10px}
+.mask-items-area .mask-item div.ui-resizable-sw,
+.mask-items-area .mask-item div.ui-resizable-nw,
+.mask-items-area .mask-item div.ui-resizable-ne {
+    display: none!important;
+}
+#product-list-colors .bg-colors.active::before {
+    content: '\f00c';
+    font: normal normal normal 14px/1 FontAwesome;
+    top: 6px;
+}
+div#dag-store-idea-categories {
+    padding: 0;
+    position: absolute;
+    left: -15px;
+    right: -15px;
+    background-color:#666;
+    top: -15px;
+    margin: 0;
+    border-bottom: 1px solid #ddd;
+}
+#dag-store-idea-categories ol.breadcrumb.idea-breadcrumb {
+    position: static;
+    width: 100%;
+    background-color: #666;
+    border-bottom: 1px solid #444;
+    padding: 12px 15px;
+}
+div#dag-store-idea-categories > ul {
+    padding: 0!important;
+    display: flex;-webkit-flex-wrap: wrap;-ms-flex-wrap: wrap;flex-wrap: wrap;
+}
+div#dag-store-idea-categories > ul > li {
+    float: left;
+    /*width: 80px!important;*/
+    height: auto;
+    background-color: transparent;
+    color: #fff;
+    margin: 15px;
+    padding: 0;
+    display: -webkit-flex;display: -ms-flexbox;display: flex;
+}
+div#dag-store-idea-categories > ul > li > a {
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.btn-thumb img.img-background {
+    width: 80px;
+    height: 80px;
+    background-color: #53c1ca;
+    border-radius: 3px;
+}
+div#dag-store-idea-categories > ul > li span {
+    clear: both;
+    display: block;
+}
+#dg-design-ideas .modal-body {
+    opacity: 1!important;
+}
+#admin-template .control-layers{
+    min-height: auto;
+}
+.labView.active .changeColorAllArea {
+    top: 60px;
+    bottom: unset!important;
+}

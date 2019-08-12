@@ -1,0 +1,524 @@
+.faicons {
+    margin-left: 23%;
+    
+}
+.userplus-radio {
+    padding-right: 2px;
+}
+.userplus-required {
+    color: red;
+}
+.userplus-label i { 
+ border-radius: 999px;
+   
+    height: 26px;
+    line-height: 26px;
+    margin: 0 14px 0 0;
+    position: relative;
+    text-align: center;
+    top: 11px;
+    width: 26px;
+    color:#fff;
+    background:#000;
+}
+.userplus-label > label {
+    font-size: 14px;
+    font-weight: bold;
+   
+	
+}
+.userplus-field {
+    line-height: 3.5;
+}
+.userplus-label {
+  
+    float: left;
+    width: 34%;
+        display: flex;
+}
+.userplus-element > input {
+    width: 80%;
+    border: 1px solid #ccc;
+    box-shadow: 0 -1px 2px #ddd inset;
+    color: #444;
+    vertical-align: baseline;
+    height: 34px;
+    background:white !important;
+    padding:5px;
+}
+.userplus-element {
+    float: left;
+    width: 64%;
+    margin-left: 10px;	
+    display: inline-block; 	
+}
+/************************************** Popup Style ********************************/
+
+ /* The Modal (background) */
+.titletxt {
+
+ color: #fff;
+    margin-left:40%;
+    font-size: 22px;
+    font-weight: bold;
+    padding-right: 20px;
+    padding-top: 18px;
+	
+}
+.userplus-admin-modal-popup {
+    position: fixed; /* Stay in place */
+    z-index: 9999; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: hidden; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.userplus-admin-modal-content {
+    background-color: #fefefe;
+    margin: 3% 22%; /* 15% from the top and centered */
+    border: 1px solid #888;
+    width: 65%; /* Could be more or less, depending on screen size */
+}
+
+#userplus-popup_content{
+  min-height:100px;	
+  padding-left:10px;
+  padding-bottom:10px;
+}
+
+.userplus-loader-img {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.userplus-admin-modal-popup-header {
+    background-color: #000;
+    height: 60px;
+}
+
+/* The Close Button */
+.userplus-admin-close {
+    color: #fff;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    padding-right: 20px;
+   
+}
+
+.userplus-admin-close:hover,
+.userplus-admin-close:focus {
+    color: #aaa;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.plugin_slug{
+/* 	background-color: #eee; */
+    color: #000;
+    font-family: "Raleway",sans-serif;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.plugin_slug-message {
+    color: #f24600;
+    padding-bottom: 11px;
+}
+
+.plugin_name-field {
+/*     padding-bottom: 16px; */
+	float: left;
+    margin: 0;
+    padding: 0 0 20px;
+    width: 100%;
+}
+
+.userplus_secondary_button{
+	color: #fff;
+	border: 1px solid #000;
+	background-color: #cfcfcf;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#000), to(#000)) !important;
+	background-image: -webkit-linear-gradient(top, #000, #000) !important;
+	background-image: -moz-linear-gradient(top, #000, #000) !important;
+	background-image: -ms-linear-gradient(top, #000, #000) !important;
+	background-image: -o-linear-gradient(top, #000, #000) !important;
+	box-shadow: inset 0 -1px 1px -1px #fff;
+	padding: 4px 10px;
+}	
+
+.userplus-image-upload, .upload {
+	-moz-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bddbfa), color-stop(1, #80b5ea));
+	background:-moz-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:-webkit-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:-o-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:-ms-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bddbfa', endColorstr='#80b5ea',GradientType=0);
+	background-color:#bddbfa;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:0px 19px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+
+.userplus-image-upload:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #80b5ea), color-stop(1, #bddbfa));
+	background:-moz-linear-gradient(top, #80b5ea 5%, #bddbfa 100%);
+	background:-webkit-linear-gradient(top, #80b5ea 5%, #bddbfa 100%);
+	background:-o-linear-gradient(top, #80b5ea 5%, #bddbfa 100%);
+	background:-ms-linear-gradient(top, #80b5ea 5%, #bddbfa 100%);
+	background:linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#80b5ea', endColorstr='#bddbfa',GradientType=0);
+	background-color:#80b5ea;
+}
+.userplus-image-upload:active {
+	position:relative;
+	top:1px;
+}
+
+.userplus-profile-background-image img{
+	height: 250px !important;
+    width: 100%;
+}
+
+div.ajax-file-upload-statusbar {
+	width: 100%;
+	margin: 10px 0 0 0;
+}
+
+div.ajax-file-upload-progress {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	height: 4px;
+}
+
+div.ajax-file-upload-bar{
+	width: 0;
+	height: 4px;
+	background-color:#A0C9F2;
+}
+
+div.ajax-file-upload-percent{
+	position: absolute;
+	display: inline-block;
+	top: 3px;
+	left: 48%;
+}
+
+.userplus-image {
+    padding-bottom: 8px;
+}
+
+.userplus-image img{
+	width:80px;
+}
+.userplus-form-buttons{
+}
+
+.userplus-profile-side {
+    height: 250px;
+    padding: 30px;
+    width: 25%;
+    float:left;
+    background-size: 100% 100%;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+/*
+.userplus-profile-content {
+    display: inline-block;
+    float: right;
+    width: 72%;
+    padding:30px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.userplus-profile-content, .userplus-profile-side, .plugin_slug{
+	background: rgba(242,246,248,1);
+	background: -moz-linear-gradient(left, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 0%, rgba(224,239,249,1) 99%, rgba(224,239,249,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(242,246,248,1)), color-stop(0%, rgba(216,225,231,1)), color-stop(99%, rgba(224,239,249,1)), color-stop(100%, rgba(224,239,249,1)));
+	background: -webkit-linear-gradient(left, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 0%, rgba(224,239,249,1) 99%, rgba(224,239,249,1) 100%);
+	background: -o-linear-gradient(left, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 0%, rgba(224,239,249,1) 99%, rgba(224,239,249,1) 100%);
+	background: -ms-linear-gradient(left, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 0%, rgba(224,239,249,1) 99%, rgba(224,239,249,1) 100%);
+	background: linear-gradient(to right, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 0%, rgba(224,239,249,1) 99%, rgba(224,239,249,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', endColorstr='#e0eff9', GradientType=1 );
+}
+
+*/
+.userplus-forgot-link > a {
+color:#000 !important;
+font-size: 14px;
+    font-weight: bolder;
+}
+.userplus-profile-content .plugin_slug{
+		background: transparent !important;
+		width:auto;
+		padding:0;
+		
+}
+
+.userplus-profile-content .plugin_name-label{
+/* 	float: left; */
+/*     padding-right: 40px; */
+	float: left;
+    width: 34%;
+    color: #888;
+}
+
+.userplus-button{
+	 background-color: #cfcfcf;
+    background-image: -moz-linear-gradient(center top , #1391da, #1278b2);
+    border: 1px solid #1278b2;
+    border-radius: 4px;
+    box-shadow: 0 -1px 1px -1px #fff inset;
+    color: #fff;
+    font-weight: bold;
+    padding: 4px 10px;
+    width: 98px;
+}	
+
+.plugin_name-label i{
+	border-radius: 999px;
+    float: left;
+    height: 26px;
+    line-height: 26px;
+    margin: 0 14px 0 0;
+    position: relative;
+    text-align: center;
+    top: auto;
+    width: 26px;
+    background: #888 none repeat scroll 0 0;
+    color: #fff;
+}
+
+.userplus-profile-content .plugin_name-element{
+	float: left;
+    width: 66%;
+    color: #888;
+}
+
+.userplus-profile-container{
+	background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 1px 2px -1px #ccc;
+	max-width:50%;
+	margin:auto;
+	display:block;
+}	
+/*
+.userplus-profile-content .plugin_name-label > label{
+	padding-left: 10px;
+}
+*/
+.userplus-profile-content{
+	font-size: 14px;
+    padding: 25px 35px 20px;
+}
+
+#userplus-loader {
+    display: none;
+    margin-left: 20px;
+    width: 42px;
+}
+
+#userplus-ajax-msg {
+	display: inline-block;
+    margin-left: 20px;
+    display:none;
+}
+
+.userplus-forgot-link{
+	float: right;
+}
+
+.userplus-profile-content .plugin_slug{
+ 	background-color:transparent;
+}
+/*
+.userplus_profile_edit{
+	margin: 26px;
+}
+*/
+.userplus-warning-message{
+	color:red;
+	 padding: 15px;
+    text-decoration: none;
+}
+
+.plugin_name-required {
+    color: red;
+    display: inline-block;
+    padding-left: 5px;
+}
+
+/**************** Profile CSS ************************/
+
+.userplus-profile-left{
+	float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.userplus-profile-right{
+	float: right;
+    margin: 0;
+    padding: 0;
+}
+
+.userplus-profile-pic{
+    float: left;
+    margin: 0 20px 0 0;
+
+    height:98px;
+}
+
+.userplus-profile-pic img{
+	 background: none repeat scroll 0 0 white;
+    border: 1px solid #ddd;
+    border-radius: 63px;
+    height: 100%;
+    padding: 4px;
+    width: 100%;
+}
+
+div.userplus-clear {
+    clear: both;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.userplus-profile-head{
+	background: #F5F5F5 none repeat scroll 0 0;
+	margin: 0;
+    padding: 15px 20px;
+}
+
+.userplus-profile-name{
+	float: right;
+    margin: 0;
+    padding: 0;
+}
+
+.userplus-profile-display-name{
+	font-size: 24px;
+    font-weight: bold;
+    line-height: 2.5;
+}
+
+/********************** Button css ********************/
+
+a.userplus-profile-button-alt, div.userplus-profile-wrap a.userplus-profile-button-alt, div.userplus-profile-wrap div.userplus-profile-button-alt, div.userplus-profile-wrap input.userplus-profile-button-alt {
+	color: #000 !important;
+        font-weight:bold;
+	border: 1px solid #ddd;
+	background-color: #fff;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#eee));
+	background-image: -webkit-linear-gradient(top, #fff, #eee);
+	background-image: -moz-linear-gradient(top, #fff, #eee);
+	background-image: -ms-linear-gradient(top, #fff, #eee);
+	background-image: -o-linear-gradient(top, #fff, #eee);
+	font-size:25px;
+	box-shadow: inset 0 -1px 1px -1px #fff;
+}
+
+div.userplus-profile-wrap input.userplus-profile-button-alt-wide {
+	color: #666;
+	border: 1px solid #ddd;
+	background-color: #f5f5f5;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f5f5f5), to(#eee));
+	background-image: -webkit-linear-gradient(top, #f5f5f5, #eee);
+	background-image: -moz-linear-gradient(top, #f5f5f5, #eee);
+	background-image: -ms-linear-gradient(top, #f5f5f5, #eee);
+	background-image: -o-linear-gradient(top, #f5f5f5, #eee);
+	box-shadow: inset 0 -1px 1px -1px #fff;
+	font-size: 13px;
+    padding: 3px;
+    width: 105px;
+}
+
+a.userplus-profile-button-alt:hover, div.userplus-profile-wrap a.userplus-profile-button-alt:hover, div.userplus-profile-wrap div.userplus-profile-button-alt:hover, div.userplus-profile-wrap input.userplus-profile-button-alt:hover, div.userplus-profile-wrap input.userplus-profile-button-alt:focus {
+	border: 1px solid #ddd;
+	background-color: #eee;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#eee), to(#f5f5f5));
+	background-image: -webkit-linear-gradient(top, #eee, #f5f5f5);
+	background-image: -moz-linear-gradient(top, #eee, #f5f5f5);
+	background-image: -ms-linear-gradient(top, #eee, #f5f5f5);
+	background-image: -o-linear-gradient(top, #eee, #f5f5f5);
+	box-shadow: inset 0 -1px 1px -1px #fff;
+	color: #666;
+	padding: 4px 10px;
+}
+
+div.userplus-profile-wrap a.userplus-profile-button, input[type=submit].userplus-profile-button, input[type=button].userplus-profile-button {
+	color: #fff;
+	border: 1px solid #1278b2;
+	background-color: #1391da;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1391da), to(#1278b2));
+	background-image: -webkit-linear-gradient(top, #1391da, #1278b2);
+	background-image: -moz-linear-gradient(top, #1391da, #1278b2);
+	background-image: -ms-linear-gradient(top, #1391da, #1278b2);
+	background-image: -o-linear-gradient(top, #1391da, #1278b2);
+	box-shadow: inset 0 -1px 1px -1px #fff;
+	padding: 4px 10px;
+	text-shadow:none; /*Fix for some ThemeForest themes*/
+}
+
+
+
+div.userplus-profile-wrap a.userplus-profile-button:hover, input[type=submit].userplus-profile-button:hover, input[type=submit].userplus-profile-button:focus, input[type=button].userplus-profile-button:hover, input[type=button].userplus-profile-button:focus, div.userplus-profile-wrap a.userplus-profile-button:active, input[type=submit].userplus-profile-button:active, input[type=submit].userplus-profile-button:active, input[type=button].userplus-profile-button:active, input[type=button].userplus-profile-button:active {
+	border: 1px solid #1278b2;
+	background-color: #1278b2;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1278b2), to(#1391da));
+	background-image: -webkit-linear-gradient(top, #1278b2, #1391da);
+	background-image: -moz-linear-gradient(top, #1278b2, #1391da);
+	background-image: -ms-linear-gradient(top, #1278b2, #1391da);
+	background-image: -o-linear-gradient(top, #1278b2, #1391da);
+	box-shadow: inset 0 -1px 1px -1px #fff;
+	color: #fff;
+	padding: 4px 10px;
+	text-shadow:none; /*Fix for some ThemeForest themes*/
+}
+
+input[type=submit].userplus-profile-button:disabled, input[type=submit].userplus-profile-button:disabled:hover
+{
+	background-color:#FFF;
+	color: #1391da;
+	background-image: none;
+}
+
+a.userplus-profile-button-alt, div.userplus-profile-button-alt, input.userplus-profile-button-alt {
+    font-size: 14px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    padding: 4px 10px !important;
+    cursor: pointer;
+    text-decoration: none;
+}

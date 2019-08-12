@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "dgflaticon";
+  src: url("../fonts/Flaticonz_dg.eot");
+  src: url("../fonts/Flaticon_dg.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon_dg.woff") format("woff"),
+       url("../fonts/Flaticon_dg.ttf") format("truetype"),
+       url("../fonts/Flaticon_dg.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "dgflaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="dgflaticon-"]:before, [class*=" dgflaticon-"]:before,
+[class^="dgflaticon-"]:after, [class*=" dgflaticon-"]:after {   
+font-family: dgflaticon;
+font-style: normal;
+}
+
+.dgflaticon-interface:before { content: "\f100"; }
+.dgflaticon-circle:before { content: "\f101"; }
+.dgflaticon-location:before { content: "\f102"; }
+.dgflaticon-like-1:before { content: "\f103"; }
+.dgflaticon-link:before { content: "\f104"; }
+.dgflaticon-back:before { content: "\f105"; }
+.dgflaticon-next:before { content: "\f106"; }
+.dgflaticon-shopping-cart-1:before { content: "\f107"; }
+.dgflaticon-gift:before { content: "\f108"; }
+.dgflaticon-shopping-cart:before { content: "\f109"; }
+.dgflaticon-medical:before { content: "\f10a"; }
+.dgflaticon-interface-1:before { content: "\f10b"; }
+.dgflaticon-stop:before { content: "\f10c"; }
+.dgflaticon-symbol-3:before { content: "\f10d"; }
+.dgflaticon-signs-2:before { content: "\f10e"; }
+.dgflaticon-signs-1:before { content: "\f10f"; }
+.dgflaticon-arrows:before { content: "\f110"; }
+.dgflaticon-symbol-2:before { content: "\f111"; }
+.dgflaticon-attachment:before { content: "\f112"; }
+.dgflaticon-symbol-1:before { content: "\f113"; }
+.dgflaticon-signs:before { content: "\f114"; }
+.dgflaticon-symbol:before { content: "\f115"; }
+.dgflaticon-cross:before { content: "\f116"; }
+.dgflaticon-error:before { content: "\f117"; }
+.dgflaticon-add:before { content: "\f118"; }
+.dgflaticon-info:before { content: "\f119"; }
+.dgflaticon-placeholder-2:before { content: "\f11a"; }
+.dgflaticon-placeholder-1:before { content: "\f11b"; }
+.dgflaticon-plus:before { content: "\f11c"; }
+.dgflaticon-star-1:before { content: "\f11d"; }
+.dgflaticon-play-button:before { content: "\f11e"; }
+.dgflaticon-star:before { content: "\f11f"; }
+.dgflaticon-success:before { content: "\f120"; }
+.dgflaticon-like:before { content: "\f121"; }
+.dgflaticon-placeholder:before { content: "\f122"; }

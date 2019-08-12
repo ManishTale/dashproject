@@ -1,0 +1,918 @@
+2016-06-13 21:24:11: <br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2016-06-13 21:26:30: <br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2016-06-13 21:26:40: <br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2016-06-13 21:27:50: <br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2016-06-13 21:33:55: <br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2016-06-13 21:34:04: <br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/localdisk/svn_root/project/18bang/wristband/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2016-06-29 09:50:33: <br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+2016-06-29 09:50:58: <br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>D:\xamp\htdocs\wordpress\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+2017-02-24 20:51:12: <br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+2017-02-24 20:58:17: <br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+2017-02-24 21:01:39: <br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+2017-02-24 21:08:26: <br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+2017-02-24 21:10:42: <br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+2017-02-24 21:12:01: <br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+2017-02-24 21:20:44: <br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>F:\servers\htdocs\designer\wp411\tshirtecommerce\includes\libraries\qrcode\qrmask.php</b> on line <b>155</b><br />
+2018-02-01 23:21:52: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-02-02 00:49:05: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-02-07 02:36:27: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-02-26 02:41:49: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-02-27 00:01:43: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-03-03 02:30:45: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-03-03 02:31:25: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-05-31 21:53:59: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-11-21 22:51:50: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-11-22 20:51:19: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-11-22 23:52:49: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+2018-11-23 09:46:15: <br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/designer/woo/tshirtecommerce/includes/libraries/qrcode/qrmask.php</b> on line <b>155</b><br />

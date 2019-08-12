@@ -1,0 +1,31 @@
+a:4:{s:5:"value";O:8:"stdClass":28:{s:5:"title";s:12:"Golf T-shirt";s:11:"description";s:0:"";s:17:"short_description";s:0:"";s:9:"published";s:1:"1";s:3:"sku";s:10:"golf-shirt";s:5:"price";s:3:"100";s:4:"size";s:1263:"<table style="height: 78px;" width="743">
+<tbody>
+<tr>
+<td style="width: 99px; text-align: center;">Size</td>
+<td style="width: 99px; text-align: center;">S</td>
+<td style="width: 99px; text-align: center;">M</td>
+<td style="width: 100px; text-align: center;">L</td>
+<td style="width: 100px; text-align: center;">XL</td>
+<td style="width: 100px; text-align: center;">XXL</td>
+<td style="width: 100px; text-align: center;">XXXL</td>
+</tr>
+<tr>
+<td style="width: 99px; text-align: center;">A(CM)</td>
+<td style="width: 99px; text-align: center;">23</td>
+<td style="width: 99px; text-align: center;">25</td>
+<td style="width: 100px; text-align: center;">26</td>
+<td style="width: 100px; text-align: center;">28</td>
+<td style="width: 100px; text-align: center;">30</td>
+<td style="width: 100px; text-align: center;">35</td>
+</tr>
+<tr>
+<td style="width: 99px; text-align: center;">B(CM)</td>
+<td style="width: 99px; text-align: center;">30</td>
+<td style="width: 99px; text-align: center;">32</td>
+<td style="width: 100px; text-align: center;">35</td>
+<td style="width: 100px; text-align: center;">36</td>
+<td style="width: 100px; text-align: center;">37</td>
+<td style="width: 100px; text-align: center;">38</td>
+</tr>
+</tbody>
+</table>";s:10:"print_type";s:5:"ELEME";s:9:"min_order";s:1:"1";s:8:"max_oder";s:3:"999";s:10:"sale_price";s:2:"99";s:6:"prices";O:8:"stdClass":3:{s:12:"min_quantity";a:2:{i:0;s:1:"1";i:1;s:3:"101";}s:12:"max_quantity";a:2:{i:0;s:3:"100";i:1;s:3:"999";}s:5:"price";a:2:{i:0;s:2:"52";i:1;s:2:"40";}}s:3:"tax";s:0:"";s:5:"image";s:100:"http://localhost/dash2/wp-content/uploads/2019/03/dg-designer-464d828b14433256696212312871108713.png";s:6:"design";O:8:"stdClass":13:{s:9:"color_hex";a:3:{i:0;s:6:"FFFFFF";i:1;s:6:"FFFF00";i:2;s:6:"000000";}s:11:"color_title";a:3:{i:0;s:5:"White";i:1;s:6:"Yellow";i:2;s:5:"black";}s:5:"price";a:3:{i:0;s:0:"";i:1;s:0:"";i:2;s:0:"";}s:5:"front";a:3:{i:0;s:274:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-464d828b14433256696212312871108713.png','is_product':1,'is_change_color':0}}";i:1;s:275:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-ee23e7ad144332566992049430410306091.png','is_product':1,'is_change_color':0}}";i:2;s:275:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-f127a3f7144332566936559141210548143.png','is_product':1,'is_change_color':0}}";}s:12:"images_front";s:336:"['http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-464d828b14433256696212312871108713.png','http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-ee23e7ad144332566992049430410306091.png','http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-f127a3f7144332566936559141210548143.png']";s:4:"back";a:3:{i:0;s:275:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-56a3107c144332567919932061810464914.png','is_product':1,'is_change_color':0}}";i:1;s:275:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-69b4fa3b144332567968295645910544813.png','is_product':1,'is_change_color':0}}";i:2;s:275:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-fbfe5ba2144332567936169114610928496.png','is_product':1,'is_change_color':0}}";}s:11:"images_back";s:337:"['http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-56a3107c144332567919932061810464914.png','http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-69b4fa3b144332567968295645910544813.png','http://localhost/dash2/tshirtecommerce//uploaded/products/dg-designer-fbfe5ba2144332567936169114610928496.png']";s:4:"left";a:1:{i:0;s:0:"";}s:11:"images_left";s:0:"";s:5:"right";a:1:{i:0;s:0:"";}s:12:"images_right";s:0:"";s:6:"params";O:8:"stdClass":4:{s:5:"front";s:103:"{'page':'custom','width':'21','height':'40.50','lockW':true,'lockH':true,'shape':'square','shapeVal':0}";s:4:"back";s:103:"{'page':'custom','width':'21','height':'39.29','lockW':true,'lockH':true,'shape':'square','shapeVal':0}";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:4:"area";O:8:"stdClass":4:{s:5:"front";s:85:"{'width':198,'height':378,'left':'146.032px','top':'73px','radius':'0px','zIndex':''}";s:4:"back";s:81:"{'width':196,'height':363,'left':'147px','top':'90px','radius':'0px','zIndex':''}";s:4:"left";s:0:"";s:5:"right";s:0:"";}}s:10:"view_label";O:8:"stdClass":4:{s:5:"front";s:0:"";s:4:"back";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:9:"box_width";s:3:"500";s:10:"box_height";s:3:"500";s:2:"id";s:2:"73";s:17:"prices_variations";s:0:"";s:9:"dpioutput";s:3:"300";s:22:"productCheckItemFitFlg";s:1:"1";s:23:"productCheckItemFitType";s:1:"0";s:5:"theme";s:21:"default_58f57a6fd41c8";s:21:"textdefault_attribute";s:5:"Hello";s:22:"colordefault_attribute";s:6:"FF0000";s:22:"productTxtAsSettingFlg";s:1:"1";s:10:"attributes";O:8:"stdClass":7:{s:4:"name";a:1:{i:0;s:4:"Size";}s:6:"prices";a:1:{i:0;a:6:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:1:"0";i:5;s:1:"1";}}s:6:"titles";a:1:{i:0;a:6:{i:0;s:1:"S";i:1;s:1:"M";i:2;s:1:"L";i:3;s:2:"XL";i:4;s:3:"XXL";i:5;s:4:"XXXL";}}s:4:"type";a:1:{i:0;s:8:"textlist";}s:3:"obj";a:1:{i:0;s:4:"none";}s:8:"required";a:1:{i:0;s:1:"0";}s:5:"value";a:1:{i:0;s:0:"";}}}s:10:"write_time";s:10:"1564666618";s:10:"expired_in";i:300;s:12:"expired_time";i:1564666918;}

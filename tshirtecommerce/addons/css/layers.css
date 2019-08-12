@@ -1,0 +1,5 @@
+.box-control{position:fixed;width:250px;background-color:#fff;border:1px solid #ddd;border-radius:3px;display:none}
+.box-control label{width:100%;text-align:left;border-bottom:1px solid #ddd;background-color:#f1f1f1;padding:8px 10px}
+.layers-control{position:relative;width:100%;float:left;clear:both;display:block}
+.layers-control > div{border-bottom:1px solid #f1f1f1;clear:both;float:left;font-size:12px;margin-bottom:6px;padding:6px 10px;text-align:left;width:100%;display:inline-block}
+.layers-control > div:last-child{margin-bottom:0}

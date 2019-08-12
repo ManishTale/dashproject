@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="262.4" height="262.4" viewBox="0 0 262.4 262.4">
+  <defs>
+    <clipPath id="clip-path">
+      <polygon points="11.5 256.5 256.5 256.5 11.5 11.5 11.5 256.5" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <polygon points="256.5 11.5 256.5 256.5 11.5 11.5 256.5 11.5" fill="none"/>
+    </clipPath>
+  </defs>
+  <title>Asset 2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="_Clip_Group_37" data-name=" Clip Group 37">
+        <g clip-path="url(#clip-path)">
+          <g>
+            <circle id="_Path_613" data-name=" Path 613" cx="11.5" cy="169" r="11.5" fill="#c64045"/>
+            <circle id="_Path_614" data-name=" Path 614" cx="40.3" cy="133.1" r="5.7" fill="#f16473"/>
+            <circle id="_Path_615" data-name=" Path 615" cx="70.9" cy="188.1" r="7.6" fill="#a9b793"/>
+            <circle id="_Path_616" data-name=" Path 616" cx="34.5" cy="90.1" r="8.5" fill="#dfad77"/>
+            <circle id="_Path_617" data-name=" Path 617" cx="63.4" cy="144.5" r="5.7" fill="#b7c8c2"/>
+            <circle id="_Path_618" data-name=" Path 618" cx="11.5" cy="50.3" r="8.8" fill="#f4c6c9"/>
+            <circle id="_Path_619" data-name=" Path 619" cx="105.8" cy="105.8" r="7.9" fill="#79aa95"/>
+            <circle id="_Path_620" data-name=" Path 620" cx="70.9" cy="111.4" r="11.5" fill="#f8ebe8"/>
+            <circle id="_Path_621" data-name=" Path 621" cx="11.5" cy="225.8" r="5.7" fill="#79aa95"/>
+            <circle id="_Path_622" data-name=" Path 622" cx="178.2" cy="211.5" r="8.5" fill="#dfad77"/>
+            <circle id="_Path_623" data-name=" Path 623" cx="11.5" cy="11.5" r="5.6" fill="#dfad77"/>
+            <circle id="_Path_624" data-name=" Path 624" cx="110.5" cy="240.1" r="8.5" fill="#f8ebe8"/>
+            <circle id="_Path_625" data-name=" Path 625" cx="142.2" cy="169" r="6.4" fill="#dfad77"/>
+            <circle id="_Path_626" data-name=" Path 626" cx="57.6" cy="256.5" r="5.7" fill="#f16473"/>
+            <circle id="_Path_627" data-name=" Path 627" cx="236.9" cy="237.3" r="5.7" fill="#f16473"/>
+            <circle id="_Path_628" data-name=" Path 628" cx="126.5" cy="203" r="7.6" fill="#a9b793"/>
+            <circle id="_Path_629" data-name=" Path 629" cx="205.1" cy="256.5" r="5.9" fill="#a9b793"/>
+          </g>
+        </g>
+      </g>
+      <g id="_Clip_Group_39" data-name=" Clip Group 39">
+        <g clip-path="url(#clip-path-2)">
+          <g>
+            <circle id="_Path_647" data-name=" Path 647" cx="169.1" cy="11.5" r="11.5" fill="#c64045"/>
+            <circle id="_Path_648" data-name=" Path 648" cx="133.1" cy="40.2" r="5.7" fill="#f16473"/>
+            <circle id="_Path_649" data-name=" Path 649" cx="188.1" cy="70.9" r="7.6" fill="#a9b793"/>
+            <circle id="_Path_650" data-name=" Path 650" cx="90.1" cy="34.5" r="8.5" fill="#dfad77"/>
+            <circle id="_Path_651" data-name=" Path 651" cx="144.6" cy="63.3" r="5.7" fill="#b7c8c2"/>
+            <circle id="_Path_652" data-name=" Path 652" cx="50.3" cy="11.5" r="8.8" fill="#f4c6c9"/>
+            <circle id="_Path_653" data-name=" Path 653" cx="105.9" cy="105.8" r="7.9" fill="#79aa95"/>
+            <circle id="_Path_654" data-name=" Path 654" cx="111.4" cy="70.9" r="11.5" fill="#f8ebe8"/>
+            <circle id="_Path_655" data-name=" Path 655" cx="225.9" cy="11.5" r="5.7" fill="#79aa95"/>
+            <circle id="_Path_656" data-name=" Path 656" cx="211.6" cy="178.1" r="8.5" fill="#dfad77"/>
+            <circle id="_Path_657" data-name=" Path 657" cx="11.5" cy="11.5" r="5.6" fill="#dfad77"/>
+            <circle id="_Path_658" data-name=" Path 658" cx="240.1" cy="110.4" r="8.5" fill="#f8ebe8"/>
+            <circle id="_Path_659" data-name=" Path 659" cx="169.1" cy="142.2" r="6.4" fill="#dfad77"/>
+            <circle id="_Path_660" data-name=" Path 660" cx="256.5" cy="57.6" r="5.7" fill="#f16473"/>
+            <circle id="_Path_661" data-name=" Path 661" cx="237.3" cy="236.9" r="5.7" fill="#f16473"/>
+            <circle id="_Path_662" data-name=" Path 662" cx="203.1" cy="126.4" r="7.6" fill="#a9b793"/>
+            <circle id="_Path_663" data-name=" Path 663" cx="256.5" cy="205" r="5.9" fill="#a9b793"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

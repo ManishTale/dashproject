@@ -1,0 +1,29 @@
+.layout-right .col-left {
+    left: auto;
+    right: 0px;
+}
+.layout-right .menu-options {
+    left: 0;
+}
+.layout-right .product-toolbar-options {
+    left: 330px;
+}
+.layout-right .div-design-area#design-area {
+    margin-right: 62px;
+}
+.layout-right .top-right {
+    right: 90px;
+}
+.layout-right div#product-thumbs {
+    right: 160px;
+}
+.layout-right .product-gallery-thumbs {
+    left: 0;
+}
+.layout-right div#dg-popover {
+    left: 320px;
+    right: 76px;
+}
+body.hide-menu.layout-right div#dg-popover {
+    left: 0;
+}

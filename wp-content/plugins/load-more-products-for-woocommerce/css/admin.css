@@ -1,0 +1,172 @@
+.lmp_load_more_button .lmp_button {
+    display: inline-block;
+    font-size: 22px;
+    text-decoration: none;
+    line-height: 1em;
+    text-align:center;
+    box-sizing: border-box;
+}
+.lmp_load_more_button .lmp_button img,
+.lmp_load_more_button .lmp_button img.br_lmp_button_image {
+    max-width: 100%;
+    max-height: 100%;
+    display: initial;
+}
+.lmp_load_more_button .lmp_button .br_lmp_hover_image {display: none;}
+.lmp_load_more_button .lmp_button:hover .br_lmp_button_image {display: none;}
+.lmp_load_more_button .lmp_button:hover .br_lmp_hover_image {display: initial;}
+.lmp_load_more_button .lmp_button .br_lmp_loading_image {display: none;}
+.berocket_lmp_ajax_loading .lmp_load_more_button .lmp_button .br_lmp_button_image {display: none;}
+.berocket_lmp_ajax_loading .lmp_load_more_button .lmp_button .br_lmp_hover_image {display: none;}
+.berocket_lmp_ajax_loading .lmp_load_more_button .lmp_button .br_lmp_loading_image {display: initial;}
+.lmp_button_table .colorpicker_field_load_more {
+    width: 2em; 
+    height: 1.2em; 
+    border: 1px solid black; 
+    position: relative; 
+    display: inline-block; 
+    top: 0.2em;
+}
+.form-table textarea {
+    width: 100%;
+    height: 4em;
+    min-height: 4em;
+    resize: vertical;
+}
+.colorpicker_field_load_more, .colorpicker_field_sc{width: 30px; height: 30px; margin: 0 auto; border: 1px solid black; position: relative!important;}
+.btn-preview-block{
+    position: relative; 
+    width: 100%; 
+    height: 150px;  
+    text-align: center; 
+    line-height: 150px; 
+    overflow: hidden;
+}
+.btn-preview-block.btn-fixed-position{
+    position: fixed;
+    background-color: rgb(255, 255, 255); 
+    top: 31px; 
+    border: 1px solid #000; 
+    text-align: center; 
+    line-height: 150px; 
+    overflow: hidden;
+    z-index: 9000;
+}
+.br_framework_settings .br_colorpicker ~ .br_colorpicker_default {
+    margin-left: 0 !important;
+}
+.btn-preview-td,
+.btn-prev-preview-td{
+    position: relative;
+    border: 1px solid #000;
+    width: 100%;
+    height: 215px;
+    box-sizing:border-box;
+}
+.berocket-margin-paddings-block-parent label {
+    width: 65px;
+    position: relative;
+    display: inline-block;
+    height: 60px;
+}
+.berocket-margin-paddings-block-parent label input.berocket-margin-paddings-block {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    top: 1em;
+}
+.br_framework_settings .berocket-margin-paddings-block-parent .br_line_delimiter {
+    width: 0.5em;
+}
+
+@media screen (min-width:800px) and (max-width:1280px){
+    .btn-preview-td,
+    .btn-prev-preview-td{
+    }
+    .btn-preview-td div.btn-preview-block,
+    .btn-prev-preview-td div.btn-preview-block{
+    }
+}
+@media screen and (max-width: 600px) {
+    .btn-preview-td div.btn-preview-block,
+    .btn-prev-preview-td div.btn-preview-block{
+    }
+    .btn-preview-td,
+    .btn-prev-preview-td{
+    }
+    .btn-preview-block{
+        height: 150px;  
+        line-height: 150px; 
+    }
+    .br_framework_settings .br_colorpicker ~ .br_colorpicker_default {
+        width: 100%;
+    }
+
+}
+.br_loading_position_wrap {
+    border:0;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+.br_loading_position {
+    cursor: move;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+.br_loading_position_width input,
+.br_loading_position_height input,
+.br_loading_position_left input,
+.br_loading_position_top input {
+    width: 70px;
+}
+.br_loading_position_width span,
+.br_loading_position_height span,
+.br_loading_position_left span,
+.br_loading_position_top span {
+    width: 50px;
+    display: inline-block;
+}
+.br_loading_position_wrap.lmp_load_more_button .lmp_button {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.br_loading_position_wrap.lmp_load_more_button .lmp_button img.br_lmp_button_image,
+.br_loading_position_wrap.lmp_load_more_button .lmp_button img.br_lmp_hover_image {
+    display: none;
+}
+.br_loading_position_wrap.lmp_load_more_button .lmp_button img.br_lmp_loading_image {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
+.lmp_load_more_button.br_trbtn_for_use_not_image .lmp_button .br_loading_inside_lmp {
+    position: relative;
+    display: block;
+}
+.br_loading_inside_lmp img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.br_loading_position img.lmp_rotate,
+.br_loading_position .fa.lmp_rotate:before,
+.lmp_button img.lmp_rotate,
+.lmp_button .fa.lmp_rotate:before {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-animation:spin 2s linear infinite;
+    -moz-animation:spin 2s linear infinite;
+    animation:spin 2s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }

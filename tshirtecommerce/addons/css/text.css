@@ -1,0 +1,64 @@
+.clear-both{clear:both}
+#options-add_item_text .row.toolbar-action-rotate{float:left;text-align:left;width:42%}
+#options-add_item_text .row.toolbar-action-outline{float:right;text-align:left;width:58%}
+.row.toolbar-action-arc{clear:both}
+.dg-slider.ui-slider{background:#f4f4f4 none repeat scroll 0 0;border:1px solid #cacaca;border-radius:2px;cursor:pointer;height:7px}
+.dg-slider.ui-slider .ui-slider-range{background:#bebebe;border:0 none;border-radius:2px}
+.dg-slider.ui-slider .ui-slider-handle{background:#fff none repeat scroll 0 0;border:1px solid #cacaca;border-radius:50%;cursor:pointer;height:22px;outline:medium none;top:-9px;width:22px}
+.my-font-list{display:inline-block;max-height:90px;position:relative}
+#dg-popover .dropdown.dropdown-nostyle{background:none;border:0 none;border-radius:0;box-shadow:none;float:right;height:auto;padding:0;text-align:left}
+#product-details.ps-container{max-height:230px;overflow:hidden;position:relative}
+#eproduct-build-addon span.bg-colors{overflow:hidden}
+#eproduct-build-addon span.bg-colors img{max-width:100%;max-height:100%}
+#dg-popover > .popover-content{position:relative;min-height:100px}
+.text-addons{position:relative}
+#screen_colors_images img{max-height:200px}
+#screen_colors_list{float:left;max-height:200px;overflow:auto}
+#txt-team-fontfamly{height:22px;max-width:120px;overflow:hidden}
+.mask-items-area .mask-item div.ui-resizable-e{
+	height:100%;right:-5px;top:0;width:9px;
+}
+.mask-items-area .mask-item div.ui-resizable-s {
+    height: 9px;
+    left: 0;
+    bottom: -5px;
+    width: 100%;
+}
+.mask-items-area .mask-item div.ui-resizable-e, .mask-items-area .mask-item div.ui-resizable-s{
+	background: none; border:0 none;box-shadow:none;
+	font-family: Flaticon;
+    font-size: 12px;
+    font-style: normal;
+    color: #333;
+     font-family: Flaticon;
+    font-size: 12px;
+    font-style: normal;
+    color: #333;
+    content: '\f163';
+}
+.mask-items-area .mask-item div.ui-resizable-e:before {
+    content: '\f163';
+    position: absolute;
+    right: -14px;
+    width: 14px;
+    height: 21px;
+    background-color: #fff;
+    bottom: -2px;
+    margin: auto;
+    font-weight: bold;
+    transform: rotate(90deg);
+    text-align: center;
+    line-height: 22px;
+}
+.mask-items-area .mask-item div.ui-resizable-s:before {
+    position: absolute;
+    right: 2px;
+    width: 14px;
+    height: 21px;
+    background-color: #fff;
+    bottom: -17px;
+    margin: auto;
+    content: '\f163';
+    line-height: 21px;
+    font-weight: bold;
+}

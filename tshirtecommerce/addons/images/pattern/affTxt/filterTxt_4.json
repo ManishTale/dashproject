@@ -1,0 +1,6 @@
+{
+	"pattern"  : "<pattern id='textFilter_Strip_4' width='2' height='2' patternUnits='userSpaceOnUse'><circle cx='1' cy='1' r='0.5'/></pattern>",
+	"id"       : "textFilter_Strip_4",
+	"desc"     : "Circle",
+	"order"    : 4
+}

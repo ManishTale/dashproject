@@ -1,0 +1,4 @@
+.ui-autocomplete{ height: 200px; overflow-y: scroll; overflow-x: hidden;}
+#auto-searchform{display: flex;}
+#wasb-input{width: 65%;}
+#wasb-submit{width: 35%;}

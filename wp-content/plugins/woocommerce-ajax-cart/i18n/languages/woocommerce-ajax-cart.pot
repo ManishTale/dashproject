@@ -1,0 +1,93 @@
+# Copyright (C) 2019 WooCommerce AJAX Cart
+# This file is distributed under the same license as the WooCommerce AJAX Cart package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce AJAX Cart 1.2.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-ajax-"
+"cart\n"
+"POT-Creation-Date: 2019-02-08 13:11:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/main.php:49
+msgid "Updating..."
+msgstr ""
+
+#: includes/main.php:50
+msgid "Are you sure you want to remove this item from cart?"
+msgstr ""
+
+#: includes/main.php:116
+msgid "Settings"
+msgstr ""
+
+#: includes/main.php:125
+msgid "Woo Ajax Cart"
+msgstr ""
+
+#: includes/main.php:149 includes/main.php:215
+msgid "Save settings"
+msgstr ""
+
+#: includes/main.php:152
+msgid "Reset all settings"
+msgstr ""
+
+#: includes/main.php:157
+msgid "WooCommerce Ajax Cart Settings"
+msgstr ""
+
+#: includes/main.php:176
+msgid "Display -/+ buttons around product quantity input"
+msgstr ""
+
+#: includes/main.php:185
+msgid "Show item quantity as select instead numeric field"
+msgstr ""
+
+#: includes/main.php:188
+msgid "Items to show on select"
+msgstr ""
+
+#: includes/main.php:203
+msgid "Show user confirmation when change item quantity to zero"
+msgstr ""
+
+#: includes/main.php:219
+msgid "Back to Plugins"
+msgstr ""
+
+#: includes/main.php:255
+msgid "Buy Premium"
+msgstr ""
+
+#: templates/wac-qty-select.php:3
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce AJAX Cart"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/woocommerce-ajax-cart/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Change the default behavior of WooCommerce Cart page, making AJAX requests "
+"when quantity field changes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Moises Heberle, Alex Szilagyi (contributor)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://codecanyon.net/user/moiseh"
+msgstr ""

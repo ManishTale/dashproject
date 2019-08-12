@@ -1,0 +1,3 @@
+#modal-designer{background-color:#fff;border-radius:4px;min-width:500px;position:absolute;top:0;width:100%;z-index:100001}
+#modal-designer a{border:1px solid #ccc;border-radius:3px;color:red;font-size:11px;font-weight:700;left:6px;padding:4px 5px;position:relative;top:8px;z-index:1}
+#modal-design-bg{background:#000 none repeat scroll 0 0;float:left;height:100%;left:0;opacity:.5;position:fixed;top:0;width:100%;z-index:1000}

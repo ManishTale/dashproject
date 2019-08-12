@@ -1,0 +1,92 @@
+#product-designer{width:100%;margin:0;top:0;left:0;border:0;border-radius:0;}
+.box-design{float:left;display:inline;overflow:auto;width:100%;padding:5px}
+.product-elm-list .input-group-btn button:first-child{outline:medium none;text-align:left;width:84%}
+.product-elm-list .input-group-btn .dropdown-menu{float:right;left:auto;right:0}
+.product-elm-list button.btn.active{background-color:#5cb85c;color:#fff}
+#layers li.layer{background:none}
+#layers .layer.active{background:#5cb85c;color:#fff}
+#product-designer .modal-header button.close{position:absolute;right:10px;top:10px;z-index:1}
+#product-designer-options{overflow:auto;position:relative;max-width:250px;min-width:250px;float:right}
+#product-designer-options .ps-scrollbar-x-rail{display:none}
+#product-designer-options .ps-scrollbar-y-rail{cursor:pointer;display:block;opacity:1}
+#ajax-modal{margin-top:0!important}
+div#design-options {
+    bottom: 0;
+    padding: 12px;
+    float: right;
+    margin: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 200px;
+}
+#design-options .form-group {
+    margin-bottom: 8px;
+    overflow: visible;
+}
+div#design-options h3 {
+    background-color: #f1f1f1;
+    margin: -12px -12px 10px -12px;
+    padding: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+}
+.product-elm-list {
+    clear: both;
+    display: block;
+    padding-top: 15px;
+}
+.product-elm-images {
+    float: left;
+    width: 100%;
+    padding-bottom: 8px;
+}
+.product-elm-images span.product-img {
+    position: relative;
+    float: left;
+    border: 1px solid #f1f1f1;
+    margin: 4px;
+    padding: 2px;
+    text-align: center;
+}
+.product-elm-images span.btn-remove {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    color: #f00;
+    font-size: 14px;
+    padding: 0 5px;
+    cursor: pointer;
+    font-weight: bold;
+    line-height: 100%;
+}
+.product-elm-images span.btn-remove:hover{
+	background-color:#ff0000;
+	color:#fff;
+}
+.box-art {
+    display: inline-block;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+    margin: 8px;
+}
+.box-image {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 3px;
+    background-color: rgba(241, 241, 241, 0.58);
+    position: relative;
+}
+span.design_title {
+    position: absolute;
+    bottom: 0px;
+    background-color: rgba(51, 51, 51, 0.34);
+    left: 0;
+    right: 0;
+    color: #333;
+    padding: 4px 6px;
+    font-size: 12px;
+    z-index: 100;
+}

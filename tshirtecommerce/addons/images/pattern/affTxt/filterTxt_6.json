@@ -1,0 +1,6 @@
+{
+	"pattern"  : "<pattern id='textFilter_Strip_6' width='3' height='3' patternUnits='userSpaceOnUse'><line stroke-width='1' x1='0' y1='0' x2='3' y2= '3' /><line stroke-width='1' x1='3' y1='0' x2='0' y2= '3' /></pattern>",
+	"id"       : "textFilter_Strip_6",
+	"desc"     : "Caro",
+	"order"    : 6
+}

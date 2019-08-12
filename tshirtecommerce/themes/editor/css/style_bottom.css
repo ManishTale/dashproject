@@ -1,0 +1,75 @@
+body.layout-bottom #dg-designer .col-left {
+    left: 0;
+    right: 0;
+    width: 100%;
+    bottom: 0;
+    height: 76px;
+    text-align: center;
+    top: auto;
+}
+body.layout-bottom #dg-designer .col-left .dg-box{
+	background: none;
+    border: 0;
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+body.layout-bottom #dg-designer .col-left ul.menu-left{
+    display: inline-block;
+    width: auto!important;
+    margin: auto;
+    float: none;
+}
+#dg-designer .col-left .menu-left > li {
+    border-color: #292f38!important;
+    float: left;
+    width: auto;
+    clear: none;
+    border-bottom: 0;
+    padding: 0;
+    border-radius: 0;
+    border-left: 1px solid #292f38;
+}
+#dg-designer .col-left .menu-left > li:last-child{
+	border-right: 1px solid #292f38;
+}
+body.layout-bottom #dg-designer .col-left .menu-left > li a {
+    padding: 18px 22px!important;
+}
+body.layout-bottom .top-right {
+    bottom: 80px;
+}
+body.layout-bottom div#product-thumbs {
+    bottom: 152px;
+}
+body.layout-bottom.dg_screen div#product-thumbs {
+    bottom: 92px;
+}
+body.layout-bottom .menu-options {
+    left: 0;
+    bottom: 76px;
+}
+.layout-bottom .product-toolbar-options {
+    left: 330px;
+    bottom: 76px;
+}
+body.layout-bottom div#design-area {
+    width: calc(100% - 290px);
+    height: calc(100% - 150px);
+    margin-bottom: 72px;
+}
+body.hide-menu.layout-bottom .div-design-area#design-area {
+    width: calc(100% + 30px);
+    margin-left: -15px;
+}
+body.layout-bottom div#dg-popover {
+    left: 320px;
+}
+body.hide-menu.layout-bottom div#dg-popover{
+	left: 0;
+}
+body.layout-bottom .product-gallery-thumbs {
+    left: 0;
+    bottom: 76px;
+}

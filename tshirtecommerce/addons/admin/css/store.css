@@ -1,0 +1,58 @@
+.list-tree{list-style:none;margin:0;padding:0;border:1px solid #ccc;border-radius:4px;clear:both;display:block;overflow:hidden}
+.list-tree > li{padding:0;border-bottom:1px solid #ccc;clear:both;display:block;float:left;width:100%}
+.list-tree > li:last-child{border:0}
+.list-tree > li > a{padding:12px 16px;overflow:hidden;display:block;clear:both;text-decoration:none;float:left}
+.list-tree > li span.folder-plus{padding-right:5px}
+ul.list-tree-children{list-style:none;padding:0 0 0 20px;border-top:1px solid #ccc;max-height:400px;overflow:auto;display:block;clear:both;position:relative}
+ul.list-tree-children > li.cate-children{border:1px solid #ccc;margin:6px 12px;border-radius:4px;display:block;overflow:hidden}
+ul.list-tree-children > li.cate-children a{padding:6px 12px;float:left}
+.list-tree div.cate-tool{background-color:#f1f1f1}
+.tool-sort{cursor:move}
+.list-tree div.cate-tool a{float:left;height:100%;padding:12px;border-left:1px solid #ccc;max-height:42px}
+.list-tree .cate-children div.cate-tool a{padding:6px 12px}
+.ui-state-highlight{height:30px;line-height:1.2em}
+.btn-top-sales.active{background:#428BCA;color:#fff;box-shadow:none;border:1px solid #428BCA}
+.store-mask {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(99, 99, 99, 0.65);
+    z-index: 10000;
+    display: none;
+}
+.store-mask .store-mask-content{
+	position: absolute;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    width: 90%;
+    height: 166px;
+    text-align: left;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 20px;
+}
+.store-mask .store-mask-content span{
+	font-size: 12px;
+    padding-bottom: 4px;
+    display: inline-block;
+    color: #666;
+}
+.store-mask .store-mask-content span.downloading-status{
+	color: #872223;
+    font-weight: bold;
+}
+.store-mask .store-mask-content p{
+	color: #f00;
+    font-size: 14px;
+}
+.store-mask .store-mask-content h3{
+	color: #5CB85C;
+    font-size: 24px;
+    padding-top: 5px;
+    margin-top: 0px;
+}
