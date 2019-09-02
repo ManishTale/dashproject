@@ -37,13 +37,13 @@ else
 			<div class="col-xs-3 col-lg-3 align-center">
 				<div class="form-group">
 					<small><?php echo lang('designer_clipart_edit_width'); ?></small>
-					<input type="text" size="2" id="clipart-width" readonly disabled>
+					<input type="text" size="2" id="clipart-width" readonly disabled style="pointer-events:none;">
 				</div>
 			</div>
 			<div class="col-xs-3 col-lg-3 align-center">
 				<div class="form-group">
 					<small><?php echo lang('designer_clipart_edit_height'); ?></small>
-					<input type="text" size="2" id="clipart-height" readonly disabled>
+					<input type="text" size="2" id="clipart-height" readonly disabled style="pointer-events:none;">
 				</div>
 			</div>
 			<div class="col-xs-6 col-lg-6 align-left">
@@ -61,7 +61,7 @@ else
 						<small><?php echo lang('designer_clipart_edit_rotate'); ?></small>
 					</div>
 					<div class="col-xs-6 col-lg-6 align-right">
-						<span class="rotate-values"><input type="number" value="0" class="input-small rotate-value" id="clipart-rotate-value" />&deg;</span>
+						<span class="rotate-values"><input type="number" value="0" class="input-small rotate-value" id="clipart-rotate-value" style="pointer-events:none;"/>&deg;</span>
 						<span class="rotate-refresh glyphicons refresh"></span>
 					</div>
 				</div>						

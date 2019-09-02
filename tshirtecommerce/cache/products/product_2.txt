@@ -1,0 +1,29 @@
+a:4:{s:5:"value";O:8:"stdClass":28:{s:5:"title";s:10:"Demo Shirt";s:11:"description";s:19:"Details About shirt";s:17:"short_description";s:0:"";s:9:"published";s:1:"1";s:3:"sku";s:0:"";s:5:"price";s:2:"27";s:4:"size";s:778:"<table style="height: 78px;" width="625">
+<tbody>
+<tr>
+<td style="width: 97.5px;">Size</td>
+<td style="width: 97.5px;">S</td>
+<td style="width: 97.5px;">M</td>
+<td style="width: 97.5px;">L</td>
+<td style="width: 97.5px;">XL</td>
+<td style="width: 97.5px;">XXL</td>
+</tr>
+<tr>
+<td style="width: 97.5px;">A(Cm)</td>
+<td style="width: 97.5px;">30</td>
+<td style="width: 97.5px;">32</td>
+<td style="width: 97.5px;">35</td>
+<td style="width: 97.5px;">36</td>
+<td style="width: 97.5px;">38</td>
+</tr>
+<tr>
+<td style="width: 97.5px;">B(Cm)</td>
+<td style="width: 97.5px;">40</td>
+<td style="width: 97.5px;">42</td>
+<td style="width: 97.5px;">43</td>
+<td style="width: 97.5px;">44</td>
+<td style="width: 97.5px;">45</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>";s:10:"print_type";s:5:"ELEME";s:9:"min_order";s:1:"1";s:8:"max_oder";s:2:"99";s:10:"sale_price";s:2:"26";s:6:"prices";O:8:"stdClass":3:{s:12:"min_quantity";a:1:{i:0;s:1:"1";}s:12:"max_quantity";a:1:{i:0;s:2:"99";}s:5:"price";a:1:{i:0;s:2:"27";}}s:3:"tax";s:0:"";s:5:"image";s:105:"http://202.131.123.110:8082/wp-content/uploads/2019/03/dg-designer-464d828b14433256696212312871108713.png";s:6:"design";O:8:"stdClass":13:{s:9:"color_hex";a:3:{i:0;s:6:"FFFFFF";i:1;s:6:"FFFF00";i:2;s:6:"000000";}s:11:"color_title";a:3:{i:0;s:5:"White";i:1;s:6:"Yellow";i:2;s:5:"black";}s:5:"price";a:3:{i:0;s:0:"";i:1;s:0:"";i:2;s:0:"";}s:5:"front";a:3:{i:0;s:279:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-464d828b14433256696212312871108713.png','is_product':1,'is_change_color':0}}";i:1;s:280:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-ee23e7ad144332566992049430410306091.png','is_product':1,'is_change_color':0}}";i:2;s:280:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-f127a3f7144332566936559141210548143.png','is_product':1,'is_change_color':0}}";}s:12:"images_front";s:351:"['http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-464d828b14433256696212312871108713.png','http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-ee23e7ad144332566992049430410306091.png','http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-f127a3f7144332566936559141210548143.png']";s:4:"back";a:3:{i:0;s:280:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-56a3107c144332567919932061810464914.png','is_product':1,'is_change_color':0}}";i:1;s:280:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-69b4fa3b144332567968295645910544813.png','is_product':1,'is_change_color':0}}";i:2;s:280:"{'0':{'id':'area-design'},'1':{'id':'images-1','width':'498px','height':'498px','top':'0px','left':'0px','zIndex':'auto','img':'http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-fbfe5ba2144332567936169114610928496.png','is_product':1,'is_change_color':0}}";}s:11:"images_back";s:352:"['http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-56a3107c144332567919932061810464914.png','http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-69b4fa3b144332567968295645910544813.png','http://202.131.123.110:8082/tshirtecommerce//uploaded/products/dg-designer-fbfe5ba2144332567936169114610928496.png']";s:4:"left";a:1:{i:0;s:0:"";}s:11:"images_left";s:0:"";s:5:"right";a:1:{i:0;s:0:"";}s:12:"images_right";s:0:"";s:6:"params";O:8:"stdClass":4:{s:5:"front";s:104:"{'page':'custom','width':'21','height':'36.89','lockW':true,'lockH':false,'shape':'square','shapeVal':0}";s:4:"back";s:104:"{'page':'custom','width':'21','height':'29.98','lockW':true,'lockH':false,'shape':'square','shapeVal':0}";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:4:"area";O:8:"stdClass":4:{s:5:"front";s:81:"{'width':195,'height':339,'left':'148px','top':'90px','radius':'0px','zIndex':''}";s:4:"back";s:81:"{'width':196,'height':277,'left':'149px','top':'60px','radius':'0px','zIndex':''}";s:4:"left";s:0:"";s:5:"right";s:0:"";}}s:10:"view_label";O:8:"stdClass":4:{s:5:"front";s:0:"";s:4:"back";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:9:"box_width";s:3:"500";s:10:"box_height";s:3:"500";s:2:"id";s:1:"2";s:17:"prices_variations";s:0:"";s:9:"dpioutput";s:3:"300";s:22:"productCheckItemFitFlg";s:1:"1";s:23:"productCheckItemFitType";s:1:"0";s:5:"theme";s:21:"default_58f57a6fd41c8";s:21:"textdefault_attribute";s:5:"Hello";s:22:"colordefault_attribute";s:6:"FF0000";s:22:"productTxtAsSettingFlg";s:1:"1";s:10:"attributes";O:8:"stdClass":7:{s:4:"name";a:1:{i:0;s:4:"Size";}s:6:"prices";a:1:{i:0;a:5:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:2:"11";}}s:6:"titles";a:1:{i:0;a:5:{i:0;s:1:"S";i:1;s:1:"M";i:2;s:1:"L";i:3;s:2:"XL";i:4;s:3:"XXL";}}s:4:"type";a:1:{i:0;s:8:"textlist";}s:3:"obj";a:1:{i:0;s:4:"none";}s:8:"required";a:1:{i:0;s:1:"0";}s:5:"value";a:1:{i:0;s:0:"";}}}s:10:"write_time";s:10:"1566810495";s:10:"expired_in";i:300;s:12:"expired_time";i:1566810795;}

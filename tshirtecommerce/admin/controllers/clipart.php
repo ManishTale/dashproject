@@ -22,7 +22,6 @@ class Clipart extends Controllers
 		
 		$data['page']		= 1;
 		$data['cateid']		= $cateid;
-		
 		$data['title'] 		= 'Cliparts';
 		$data['sub_title'] 	= 'Images of Design';
 		
@@ -476,7 +475,6 @@ class Clipart extends Controllers
 		$data['title'] 	= 'Clipart';
 		$data['id'] 	= $id;
 		
-		
 		$data['categories'] 	= $this->categoriestree(true);			
 		
 		$this->view('clipart_edit', $data);
@@ -500,6 +498,7 @@ class Clipart extends Controllers
 			$cnt_file = count($tmp_keyFile);
 			for($i = 0; $i < $cnt_file; $i++) {
 			if (isset($tmp_keyFile[$i]) && $tmp_keyFile[$i] != '')
+
 			{
 				// create folder
 				$root		= dirname(ROOT) .DS. 'uploaded' .DS. 'cliparts' .DS. $art['cate_id'];
@@ -531,18 +530,22 @@ class Clipart extends Controllers
 					
 					$url 				= site_url('uploaded/cliparts/');
 					$url				= str_replace('/admin/', '/', $url);
+					/*$art['file_type'] 	= $extension;					
+					$art['file_name'] 	= $image;					
+					$art['path'] 		= $url;					
+					$art['url'] 		= $url. $art['cate_id'] .'/';*/
 					$tmp_art[$i]['file_url'] 		= $url. $art['file_url'] .'/';
 					$tmp_art[$i]['file_name'] 	= $image;	
 					$tmp_art[$i]['file_type'] 	= $extension;			
 					$tmp_art[$i]['colors'] 		= $url. $art['colors'] .'/';						
 					$tmp_art[$i]['path'] 		= $url;					
 					$tmp_art[$i]['url'] 		= $url. $art['cate_id'] .'/';
-					$tmp_art[$i]['cate_id'] 		= $art['cate_id'];
-					$tmp_art[$i]['session_id'] 		= $art['session_id'];
-					$tmp_art[$i]['description'] 		= $art['description'];
+					$tmp_art[$i]['cate_id'] 	= $art['cate_id'];
+					$tmp_art[$i]['session_id'] 	= $art['session_id'];
+					$tmp_art[$i]['description'] 	= $art['description'];
 					$tmp_art[$i]['status'] 		= $art['status'];
 					$tmp_art[$i]['title'] 		= $art['title'];
-					$tmp_art[$i]['sess_name'] 		= $art['sess_name'];
+					$tmp_art[$i]['sess_name'] 	= $art['sess_name'];
 					
 					// create folder thumb
 					$thumbs	= $root .DS. 'thumbs';				
@@ -599,9 +602,12 @@ class Clipart extends Controllers
 					{
 						if ($row->clipart_id == $id)
 						{
-							$tmp_art[$i]['clipart_id']	= $id;
-							$conent[] 			= $tmp_art[$i];
-							$is_new			= false;
+							/*$art['clipart_id']	= $id;
+							$conent[] 			= $art;
+							$is_new			= false;*/
+ 							 $tmp_art[$i]['clipart_id']	= $id;
+							 $conent[] 			= $tmp_art[$i];
+							 $is_new			= false;
 						}
 						else
 						{
@@ -622,6 +628,9 @@ class Clipart extends Controllers
 					}
 					$conent[] = $row;
 				}
+				/*$art['clipart_id']	= $index + 1;
+				$conent[] = $art;
+				$arts->count = $arts->count + 1;*/
 				$tmp_art[$i]['clipart_id']	= $index + 1;
 				$conent[] = $tmp_art[$i];
 				$arts->count = $arts->count + 1;

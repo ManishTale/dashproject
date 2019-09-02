@@ -173,7 +173,9 @@ function wppb_login_form( $args = array() ) {
 			'. wp_nonce_field( 'wppb_login', 'CSRFToken-wppb', true, false ) .'
 			<input type="hidden" name="wppb_redirect_check" value="true"/>
 			' . $login_form_bottom . '
-		</form></div></div>';
+		</form></div>
+		<div class="col-md-6 vendorlogimage"></div>
+		</div>';
 
 	if ( $args['echo'] )
 		echo $form;

@@ -26,7 +26,7 @@ if (isset($settings->store) && isset($settings->store->enable) && $settings->sto
 
 		<li <?php if($data[0] == 'store' && isset($data[2]) && $data[2] == 'art') echo 'class="active"' ?>>
 			<a href='<?php echo site_url('index.php/store/category/art'); ?>'>
-				<span class='title'>Categories</span>
+				<span class='title'> Categories</span>
 			</a>
 		</li>
 	</ul>
@@ -41,7 +41,6 @@ if (isset($settings->store) && isset($settings->store->enable) && $settings->sto
 	</a>				
 </li>
 <?php } ?>
-<!-- Vendor Tab -->
 <?php
 if (isset($settings->store) && isset($settings->store->enable) && $settings->store->enable == 1)
 {
@@ -60,13 +59,13 @@ if (isset($settings->store) && isset($settings->store->enable) && $settings->sto
 
 		<li <?php if($data[0] == 'store' && isset($data[2]) && $data[2] == 'art') echo 'class="active"' ?>>
 			<a href='<?php echo site_url('index.php/store/category/art'); ?>'>
-				<span class='title'>Categories</span>
+				<span class='title'> Categories</span>
 			</a>
 		</li>
 	</ul>
 </li>
 <?php }else{ ?>
-	<li <?php if($data[0] == 'vendor') echo 'class="active open"' ?>>
+<li <?php if($data[0] == 'vendor') echo 'class="active open"' ?>>
 	<a href="<?php echo site_url('index.php/vendor'); ?>">
 		<i class="clip-pictures"></i>
 		<span class="title"> 
@@ -75,7 +74,6 @@ if (isset($settings->store) && isset($settings->store->enable) && $settings->sto
 	</a>				
 </li>
 <?php } ?>
-<!-- End Vendor Tab -->
 
 <li <?php if($data[0] == 'store' && isset($data[1]) && ($data[1] == 'ideas' || (isset($data[2]) && $data[2] == 'idea' ) || $data[1] == 'types' || $data[1] == 'fields' || $data[1] == 'idea')) echo 'class="active open"' ?>>
 	<a href="javascript:;">

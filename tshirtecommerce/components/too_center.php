@@ -7,14 +7,14 @@ $settings = $GLOBALS['settings'];
 	<!-- Begin sidebar -->
 	<div id="dg-sidebar">
 		<div class="dg-tools">
-			<button type="button" class="btn btn-default btn-sm btn-save-design" onclick="design.tools.undo()">
+			<!-- <button type="button" class="btn btn-default btn-sm btn-save-design" onclick="design.tools.undo()">
 				<i class="fa fa-undo"></i>
 				<small><?php echo lang('designer_undo'); ?></small>
 			</button>
 			<button type="button" class="btn btn-default btn-sm btn-save-design" onclick="design.tools.redo()">
 				<i class="fa fa-repeat"></i>
 				<small><?php echo lang('designer_redo'); ?></small>
-			</button>
+			</button> -->
 			<button type="button" class="btn btn-default btn-sm btn-save-design" onclick="design.save()">
 				<i class="fa fa-save"></i>
 				<small><?php echo lang('designer_save_btn'); ?></small>

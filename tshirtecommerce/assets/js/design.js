@@ -1355,6 +1355,7 @@ var design={
 							art.imgThumb = url + art.thumb;
 							art.imgMedium = url + art.medium;
 							a.item = art;
+						console.log(".............design............", url);
 						var img = '<img alt="" src="'+url + art.thumb+'">';
 						a.innerHTML = img;
 						div.appendChild(a);

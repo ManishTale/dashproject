@@ -72,13 +72,9 @@ if ($user == 1){
 						<input type="hidden" name="art[thumb]" value="<?php echo setValue($data['art'], 'thumb', ''); ?>">					
 						<input type="hidden" name="art[medium]" value="<?php echo setValue($data['art'], 'medium', ''); ?>">					
 						<input type="hidden" name="art[description]" value="<?php echo setValue($data['art'], 'description', ''); ?>">
-						<!-- <input type="hidden" name="art[session_id]" value="<?php echo setValue($data['art'], 'session_id', $user); ?>">	
-						<input type="hidden" name="art[status]" value="<?php echo setValue($data['art'], 'status', $status); ?>"> -->
-
-						<input type="hidden" class="form-control" name="id" value="<?php echo $data['id']; ?>">
-			<input type="hidden" name="art[session_id]" value="<?php echo setValue($data['art'], 'session_id', $user); ?>">
-			 <input type="hidden" name="art[status]" value="<?php echo setValue($data['art'], 'status', $status); ?>">
-			 <input type="hidden" name="art[sess_name]" value="<?php echo setValue($data['art'], 'sess_name', $sess_name); ?>">
+						<input type="hidden" name="art[session_id]" value="<?php echo setValue($data['art'], 'session_id', $user); ?>">
+			 			<input type="hidden" name="art[status]" value="<?php echo setValue($data['art'], 'status', $status); ?>">
+			 			<input type="hidden" name="art[sess_name]" value="<?php echo setValue($data['art'], 'sess_name', $sess_name); ?>">
 					</div>
 				</div>
 			</div>
@@ -124,7 +120,7 @@ if ($user == 1){
 				</div>
 			</div>
 			<?php }?>
-
+<input type="hidden" class="form-control" name="id" value="<?php echo $data['id']; ?>">
 			
 		</form>
 			<?php

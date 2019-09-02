@@ -33,12 +33,6 @@ $addons = $GLOBALS['addons'];
 	{
    resize: none;
 	}
-	.form-group.col-xs-12 {
-    display: none;
-}
-.row.toolbar-action-size{
-	display: none;
-}
 </style>
 		<div class="row toolbar-action-text">
 			<div class="col-xs-12">
@@ -95,13 +89,13 @@ $addons = $GLOBALS['addons'];
 			<div class="col-xs-3 col-lg-3 align-center">
 				<div class="form-group">
 					<small><?php echo lang('designer_clipart_edit_width'); ?></small>
-					<input type="text" size="2" id="text-width" readonly disabled>
+					<input type="text" size="2" id="text-width" readonly disabled style="pointer-events:none;">
 				</div>
 			</div>
 			<div class="col-xs-3 col-lg-3 align-center">
 				<div class="form-group">
 					<small><?php echo lang('designer_clipart_edit_height'); ?></small>
-					<input type="text" size="2" id="text-height" readonly disabled>
+					<input type="text" size="2" id="text-height" readonly disabled style="pointer-events:none;">
 				</div>
 			</div>
 			<div class="col-xs-6 col-lg-6 align-left">
@@ -116,7 +110,7 @@ $addons = $GLOBALS['addons'];
 			<div class="form-group col-xs-12">
 				<small><?php echo lang('designer_clipart_edit_rotate'); ?></small>
 				<div class="">
-					<span class="rotate-values"><input type="number" value="0" class="input-small rotate-value" id="text-rotate-value" />&deg;</span>
+					<span class="rotate-values"><input type="number" value="0" class="input-small rotate-value" id="text-rotate-value" style="pointer-events:none;"/>&deg;</span>
 					<span class="rotate-refresh glyphicons refresh"></span>
 				</div>								
 			</div>

@@ -162,91 +162,91 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
                     
                     <div class="clear-line"></div>
                     <!-- load clipart -->
-                            <style type="text/css">
-                            section{
-                                margin-bottom: -80px;
-                            }
+<style type="text/css">
+section{
+	margin-bottom: -80px;
+}
 
-                            [type=radio] {
-                            display: none;
-                            }
+[type=radio] {
+  display: none;
+}
 
-                            #slider {
-                            height: 35vw;
-                            position: relative;
-                            perspective: 1000px;
-                            transform-style: preserve-3d;
-                            }
+#slider {
+  height: 35vw;
+  position: relative;
+  perspective: 1000px;
+  transform-style: preserve-3d;
+}
 
-                            #slider label {
-                            margin: auto;
-                                width: 30%;
-                                height: 59%;
-                            border-radius: 4px;
-                            position: absolute;
-                            left: 0; right: 0;
-                            cursor: pointer;
-                            transition: transform 0.4s ease;
-                                background: #fff;
-                                    display: flex;
-                                align-items: center;
-                            }
-                            #slider label img{
-                                width: 90% !important;
-                                margin: 0 auto;
-                                display: block;
-                                padding:20px;
-                            }
-                            
-
-
-                            #s1:checked ~ #slide4, #s2:checked ~ #slide5,
-                            #s3:checked ~ #slide1, #s4:checked ~ #slide2,
-                            #s5:checked ~ #slide3 {
-                            box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
-                            transform: translate3d(-60%,0,-200px);
-                            }
-
-                            #s1:checked ~ #slide5, #s2:checked ~ #slide1,
-                            #s3:checked ~ #slide2, #s4:checked ~ #slide3,
-                            #s5:checked ~ #slide4 {
-                            box-shadow: 0 6px 10px 0 rgba(0,0,0,.3), 0 2px 2px 0 rgba(0,0,0,.2);
-                            transform: translate3d(-30%,0,-100px);
-                            }
-
-                            #s1:checked ~ #slide1, #s2:checked ~ #slide2,
-                            #s3:checked ~ #slide3, #s4:checked ~ #slide4,
-                            #s5:checked ~ #slide5 {
-                            box-shadow: 0 13px 25px 0 rgba(0,0,0,.3), 0 11px 7px 0 rgba(0,0,0,.19);
-                            transform: translate3d(0,0,0);
-                            }
-
-                            #s1:checked ~ #slide2, #s2:checked ~ #slide3,
-                            #s3:checked ~ #slide4, #s4:checked ~ #slide5,
-                            #s5:checked ~ #slide1 {
-                            box-shadow: 0 6px 10px 0 rgba(0,0,0,.3), 0 2px 2px 0 rgba(0,0,0,.2);
-                            transform: translate3d(30%,0,-100px);
-                            }
-
-                            #s1:checked ~ #slide3, #s2:checked ~ #slide4,
-                            #s3:checked ~ #slide5, #s4:checked ~ #slide1,
-                            #s5:checked ~ #slide2 {
-                            box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
-                            transform: translate3d(60%,0,-200px);
-                            }
-                            @media (max-width: 767px) {
-                                #slider label {
-                                margin: auto;
-                                width: 53%;
-                                height: 59%;
-                            }
-                            #slider {
-                                height: 70vw;
-                            }
-                            }
+#slider label {
+  margin: auto;
+     width: 30%;
+    height: 59%;
+  border-radius: 4px;
+  position: absolute;
+  left: 0; right: 0;
+  cursor: pointer;
+  transition: transform 0.4s ease;
+	  background: #fff;
+	      display: flex;
+    align-items: center;
+}
+#slider label img{
+    width: 90% !important;
+    margin: 0 auto;
+	display: block;
+	padding:20px;
+}
+   
 
 
-                            </style>
+#s1:checked ~ #slide4, #s2:checked ~ #slide5,
+#s3:checked ~ #slide1, #s4:checked ~ #slide2,
+#s5:checked ~ #slide3 {
+  box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
+  transform: translate3d(-60%,0,-200px);
+}
+
+#s1:checked ~ #slide5, #s2:checked ~ #slide1,
+#s3:checked ~ #slide2, #s4:checked ~ #slide3,
+#s5:checked ~ #slide4 {
+  box-shadow: 0 6px 10px 0 rgba(0,0,0,.3), 0 2px 2px 0 rgba(0,0,0,.2);
+  transform: translate3d(-30%,0,-100px);
+}
+
+#s1:checked ~ #slide1, #s2:checked ~ #slide2,
+#s3:checked ~ #slide3, #s4:checked ~ #slide4,
+#s5:checked ~ #slide5 {
+  box-shadow: 0 13px 25px 0 rgba(0,0,0,.3), 0 11px 7px 0 rgba(0,0,0,.19);
+  transform: translate3d(0,0,0);
+}
+
+#s1:checked ~ #slide2, #s2:checked ~ #slide3,
+#s3:checked ~ #slide4, #s4:checked ~ #slide5,
+#s5:checked ~ #slide1 {
+  box-shadow: 0 6px 10px 0 rgba(0,0,0,.3), 0 2px 2px 0 rgba(0,0,0,.2);
+  transform: translate3d(30%,0,-100px);
+}
+
+#s1:checked ~ #slide3, #s2:checked ~ #slide4,
+#s3:checked ~ #slide5, #s4:checked ~ #slide1,
+#s5:checked ~ #slide2 {
+  box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
+  transform: translate3d(60%,0,-200px);
+}
+@media (max-width: 767px) {
+	#slider label {
+    margin: auto;
+    width: 53%;
+	height: 59%;
+}
+#slider {
+	height: 70vw;
+}
+}
+
+
+   </style>
                     <div id="clipart-rows">
                         <?php if($id != 1){  ?>
                         <h3 style="text-align: center">Trending Designs</h3>
@@ -269,6 +269,7 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
                         <?php
                         if(isset($data['arts']))
                         {
+		    	    $count = 0;
                             foreach($data['arts'] as $art)
                             {                       
                                 $images = imageArt($art);
@@ -277,6 +278,7 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
                                 $status = $art->status;
                                 $userdata = $is_logged['username'];
                                 if($user_id == $id){        
+				$count = $count+1; 
                         ?>
                                <!--  <a data-toggle="modal" href="javascript:void(0)" title="<?php echo $art->title; ?>">
                                 <a data-toggle="modal" href="<?php echo $images->medium; ?>">
@@ -317,9 +319,23 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
                                     </span>
                                 </div> -->
                                 <div class="box-art text-center img-thumbnail">
+				<!-- <a href="#" data-toggle="modal" data-target="#modalRegister"> -->
                                 <a data-toggle="modal" href="javascript:void(0)" title="<?php echo $art->title; ?>">
                                     <img src="<?php echo $images->thumb; ?>" alt="" class="img-responsive">
                                 </a>
+				<!-- </a> -->
+                            <!-- <div id='modalRegister' class='modal' role='dialog'>
+                                <div class='modal-dialog'>
+                                    <div class='modal-content'>
+                                        <div class='modal-header'>
+                                            <button type='button' class='close' data-dismiss='modal'>&times;</button>
+                                        </div>
+                                        <div class='modal-body'>
+                                            <img src="<?php echo $images->medium; ?>" alt="" class="img-responsive">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> -->
                                 <a class="box-publish" href="javascript:void(0)">
                                     <input class="checkb" type="checkbox" value="<?php echo $art->clipart_id; ?>" name="ids[]">                     
                                 </a>                                
@@ -330,6 +346,9 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
                             </div>
                                 <?php
                             } 
+			}
+                          if($count == 0){
+                            echo "No Cliparts Available";
                           }
                         }
                         ?>
@@ -371,12 +390,21 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
                         <!-- end pagination -->
             <?php } else { ?>
                     <h3 style="text-align: center">My Designs</h3>
+		    <ul class="nav nav-tabs">
+                            <li class="active"><a data-toggle="tab" href="#home">All Cliparts</a></li>
+                            <li><a data-toggle="tab" href="#menu1">Accepted Cliparts</a></li>
+                            <li><a data-toggle="tab" href="#menu2">Pending Cliparts</a></li>
+                            <li><a data-toggle="tab" href="#menu3">Rejected Cliparts</a></li>
+                        </ul>
+                        <div class="tab-content">
+                        <div id="home" class="tab-pane fade in active">    
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                         <div class="img-sld">
                         <div class="owl-carousel owl-theme">
                         <?php
                         if(isset($data['arts']))
                         {
+			$count = 0;
                             foreach($data['arts'] as $art)
                             {                       
                                 $images = imageArt($art);
@@ -385,6 +413,7 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
                                 $status = $art->status;
                                 $userdata = $is_logged['username'];
                                 if($user_id == $id){        
+				$count = $count+1;
                         ?>
                             <div class="box-art text-center img-thumbnail item">
                                 <a data-toggle="modal" href="javascript:void(0)" title="<?php echo $art->title; ?>">
@@ -429,45 +458,253 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
                                 <?php
                             } 
                           }
+			if($count == 0){
+                            echo "No Cliparts Available";
+                          }
+                        }
+                        ?>
+                    </div>
+</div>
+                </div>
+</div>
+                        <div id="menu1" class="tab-pane fade">
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <div class="img-sld">
+                        <div class="owl-carousel owl-theme">
+                        <?php
+                        if(isset($data['arts']))
+                        {
+                            $count = 0;
+                            foreach($data['arts'] as $art)
+                            {                       
+                                $images = imageArt($art);
+                                $user_id = $art->session_id;
+                                $art_price = $art->price;
+                                $status = $art->status;
+                                $userdata = $is_logged['username'];
+                                if($user_id == $id && $status == 'Accepted'){
+                                $count = $count+1;       
+                        ?>
+                            <div class="box-art text-center img-thumbnail item">
+                                <a data-toggle="modal" href="javascript:void(0)" title="<?php echo $art->title; ?>">
+                                <a href="#" data-toggle="modal" data-target="#modalRegister1">
+                                    <img src="<?php echo $images->thumb; ?>" alt="" class="img-responsive">
+                                </a>
+                                </a>
+                                <div id='modalRegister1' class='modal fade' role='dialog'>
+                                <!-- <div class='modal-dialog'> -->
+                                    <div class='modal-content'>
+                                        <div class='modal-header'>
+                                            <button type='button' class='close' data-dismiss='modal'>&times;</button>
+                                        </div>
+                                        <div class='modal-body'>
+                                            <img src="<?php echo $images->medium; ?>" alt="" class="img-responsive">
+                                        </div>
+                                    </div>
+                                <!-- </div> -->
+                            </div>
+                                <?php
+                                if ($user_id == $id && ($status == 'Pending' || $status == 'Rejected')){
+                                    ?>  
+                                    <a class="box-publish" href="javascript:void(0)">
+                                        <input class="checkb" type="checkbox" value="<?php echo $art->clipart_id; ?>" name="ids[]">                     
+                                    </a>
+                                    <?php
+                                }
+                                ?>
+                                <?php
+                                if ($status == 'Pending'){
+                                    ?>                      
+                                <a class="box-edit" href="<?php echo site_url('index.php/clipart/edit/'.$art->clipart_id); ?>">
+                                    <i class="fa fa-pencil"></i>
+                                </a>
+                                <?php
+                                }
+                                ?>          
+                                <div class="box-detail-price"><?php if(isset($data['currency_postion']) && $data['currency_postion'] != 'right') echo $data['currency_symbol'].$art->price; else echo $art->price . $data['currency_symbol']; ?>
+                                    <span style="padding-left: 100px;">
+                                        <?php if($user_id != 1) { 
+                                            if($art->status == "Accepted"){
+                                                echo "<i class='fa fa-check' style='color:green;font-size:20px;'></i>";
+                                            }
+                                        }?>
+                                    </span>
+                                </div>
+                            </div> 
+                                <?php
+                            } 
+                          }
+                          if($count == 0){
+                            echo "No Accepted Cliparts Available";
+                          }
                         }
                         ?>
                         
-                        <!-- begin pagination -->
-                       <!--  <div class="clear-line clear-line-head col-md-12"></div>
-                        <div id="arts-pagination" class="pull-right col-md-12 text-right">
-                            
-                            <?php if ($data['page'] > 1) { ?>
-                                <ul class="pagination">
-                                    <?php 
-                                        if ($data['page'] > 6 && $data['index'] > 4) { echo '<li><a href="'.site_url('index.php/clipart/index/1/'.$data['cateid']).'">«</a></li>'; }
-                                        if ($data['page'] > 5 && $data['index'] > 3) { echo '<li><a href="'.site_url('index.php/clipart/index/'.($data['index']-1).'/'.$data['cateid']).'">«</a></li>'; }
-                                        
-                                        for($i=1; $i<=$data['page']; $i++) 
-                                        {
-                                            if($data['page'] > 5 && ($i < ($data['index'] - 2) || $i > ($data['index'] + 2)))
-                                                continue;
-                                                
-                                            if ($i == $data['index'])
-                                            {
-                                    ?>
-                                                <li class="active"><a href="#"><?php echo $i; ?> <span class="sr-only"></span></a></li>
-                                        <?php 
-                                            }else
-                                            {
-                                        ?>
-                                                <li><a href="<?php echo site_url('index.php/clipart/index/'.$i.'/'.$data['cateid']); ?>"><?php echo $i; ?></a></li>
-                                        <?php 
-                                            }
-                                        }
-                                        if ($data['page'] > 6 && ($data['page']-$data['index']) > 2) { echo '<li><a href="'.site_url('index.php/clipart/index/'.($data['index']+1).'/'.$data['cateid']).'">»</a></li>'; }
-                                        if ($data['page'] > 7 && ($data['page']-$data['index']) > 3) { echo '<li><a href="'.site_url('index.php/clipart/index/'.$data['page'].'/'.$data['cateid']).'">»</a></li>'; }
-                                    ?>
-                                </ul>
-                            <?php } ?>
-                            
-                        </div> -->
-                        <!-- end pagination -->
                     </div>
+                  </div>
+                </div>
+                              
+                            </div>
+                            <div id="menu2" class="tab-pane fade">
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <div class="img-sld">
+                        <div class="owl-carousel owl-theme">
+                        <?php
+                        if(isset($data['arts']))
+                        {
+                            $count = 0;
+                            foreach($data['arts'] as $art)
+                            {                       
+                                $images = imageArt($art);
+                                $user_id = $art->session_id;
+                                $art_price = $art->price;
+                                $status = $art->status;
+                                $userdata = $is_logged['username'];
+                                if($user_id == $id && $status == 'Pending'){
+                                $count = $count+1;     
+                        ?>
+                            <div class="box-art text-center img-thumbnail item">
+                                <a data-toggle="modal" href="javascript:void(0)" title="<?php echo $art->title; ?>">
+                                <a href="#" data-toggle="modal" data-target="#modalRegister1">
+                                    <img src="<?php echo $images->thumb; ?>" alt="" class="img-responsive">
+                                </a>
+                                </a>
+                                <div id='modalRegister1' class='modal fade' role='dialog'>
+                                <!-- <div class='modal-dialog'> -->
+                                    <div class='modal-content'>
+                                        <div class='modal-header'>
+                                            <button type='button' class='close' data-dismiss='modal'>&times;</button>
+                                        </div>
+                                        <div class='modal-body'>
+                                            <img src="<?php echo $images->medium; ?>" alt="" class="img-responsive">
+                                        </div>
+                                    </div>
+                                <!-- </div> -->
+                            </div>
+                                <?php
+                                if ($user_id == $id && ($status == 'Pending' || $status == 'Rejected')){
+                                    ?>  
+                                    <a class="box-publish" href="javascript:void(0)">
+                                        <input class="checkb" type="checkbox" value="<?php echo $art->clipart_id; ?>" name="ids[]">                     
+                                    </a>
+                                    <?php
+                                }
+                                ?>
+                                <?php
+                                if ($status == 'Pending'){
+                                    ?>                      
+                                <a class="box-edit" href="<?php echo site_url('index.php/clipart/edit/'.$art->clipart_id); ?>">
+                                    <i class="fa fa-pencil"></i>
+                                </a>
+                                <?php
+                                }
+                                ?>          
+                                <div class="box-detail-price"><?php if(isset($data['currency_postion']) && $data['currency_postion'] != 'right') echo $data['currency_symbol'].$art->price; else echo $art->price . $data['currency_symbol']; ?>
+                                    <span style="padding-left: 100px;">
+                                        <?php if($user_id != 1) { 
+                                            // if($art->status == "Accepted"){
+                                            //     echo "<i class='fa fa-check' style='color:green;font-size:20px;'></i>";
+                                            // }
+                                            // else if($art->status == "Rejected"){
+                                            //     echo "<i class='fa fa-times' aria-hidden='true' style='font-size:20px;color:red;'></i>";
+                                            // }
+                                           if($art->status == "Pending"){
+                                                echo "<i class='fa fa-clock-o' style='font-size:20px; color: yellow;'></i>";
+                                            }
+                                        }?>
+                                    </span>
+                                </div>
+                            </div> 
+                                <?php
+                            } 
+                          }
+                          if($count == 0){
+                            echo "No Pending Cliparts Available";
+                          }
+                        }
+                        ?>
+                        
+                    </div>
+                  </div>
+                </div>
+                              
+                            </div>
+                        <div id="menu3" class="tab-pane fade">
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <div class="img-sld">
+                        <div class="owl-carousel owl-theme">
+                        <?php
+                        if(isset($data['arts']))
+                        {
+                            $count = 0;
+                            foreach($data['arts'] as $art)
+                            {                       
+                                $images = imageArt($art);
+                                $user_id = $art->session_id;
+                                $art_price = $art->price;
+                                $status = $art->status;
+                                $userdata = $is_logged['username'];
+                                if($user_id == $id && $status == 'Rejected'){
+                                $count = $count+1;       
+                        ?>
+                            <div class="box-art text-center img-thumbnail item">
+                                <a data-toggle="modal" href="javascript:void(0)" title="<?php echo $art->title; ?>">
+                                <a href="#" data-toggle="modal" data-target="#modalRegister1">
+                                    <img src="<?php echo $images->thumb; ?>" alt="" class="img-responsive">
+                                </a>
+                                </a>
+                                <div id='modalRegister1' class='modal fade' role='dialog'>
+                                <!-- <div class='modal-dialog'> -->
+                                    <div class='modal-content'>
+                                        <div class='modal-header'>
+                                            <button type='button' class='close' data-dismiss='modal'>&times;</button>
+                                        </div>
+                                        <div class='modal-body'>
+                                            <img src="<?php echo $images->medium; ?>" alt="" class="img-responsive">
+                                        </div>
+                                    </div>
+                                <!-- </div> -->
+                            </div>
+                                <?php
+                                if ($user_id == $id && ($status == 'Pending' || $status == 'Rejected')){
+                                    ?>  
+                                    <a class="box-publish" href="javascript:void(0)">
+                                        <input class="checkb" type="checkbox" value="<?php echo $art->clipart_id; ?>" name="ids[]">                     
+                                    </a>
+                                    <?php
+                                }
+                                ?>
+                                <?php
+                                if ($status == 'Pending'){
+                                    ?>                      
+                                <a class="box-edit" href="<?php echo site_url('index.php/clipart/edit/'.$art->clipart_id); ?>">
+                                    <i class="fa fa-pencil"></i>
+                                </a>
+                                <?php
+                                }
+                                ?>          
+                                <div class="box-detail-price"><?php if(isset($data['currency_postion']) && $data['currency_postion'] != 'right') echo $data['currency_symbol'].$art->price; else echo $art->price . $data['currency_symbol']; ?>
+                                    <span style="padding-left: 100px;">
+                                        <?php if($user_id != 1) { 
+                                            if($art->status == "Rejected"){
+                                                echo "<i class='fa fa-times' aria-hidden='true' style='font-size:20px;color:red;'></i>";
+                                            }
+                                        }?>
+                                    </span>
+                                </div>
+                            </div> 
+                                <?php
+                            } 
+                          }
+                          if($count == 0){
+                            echo "No Rejected Cliparts Available";
+                          }
+                        }
+                        ?>
+                        
+                    </div>
+                  </div>
+                </div>
                   </div>
                 </div>
             <?php } ?>
@@ -505,42 +742,6 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
                             }
                         }
                         ?>
-                        
-                        <!-- begin pagination -->
-     <!--                    <div class="clear-line clear-line-head col-md-12"></div>
-                        <div id="arts-pagination" class="pull-right col-md-12 text-right">
-                            
-                            <?php if ($data['page'] > 1) { ?>
-                                <ul class="pagination">
-                                    <?php 
-                                        if ($data['page'] > 6 && $data['index'] > 4) { echo '<li><a href="'.site_url('index.php/clipart/index/1/'.$data['cateid']).'">«</a></li>'; }
-                                        if ($data['page'] > 5 && $data['index'] > 3) { echo '<li><a href="'.site_url('index.php/clipart/index/'.($data['index']-1).'/'.$data['cateid']).'">«</a></li>'; }
-                                        
-                                        for($i=1; $i<=$data['page']; $i++) 
-                                        {
-                                            if($data['page'] > 5 && ($i < ($data['index'] - 2) || $i > ($data['index'] + 2)))
-                                                continue;
-                                                
-                                            if ($i == $data['index'])
-                                            {
-                                    ?>
-                                                <li class="active"><a href="#"><?php echo $i; ?> <span class="sr-only"></span></a></li>
-                                        <?php 
-                                            }else
-                                            {
-                                        ?>
-                                                <li><a href="<?php echo site_url('index.php/clipart/index/'.$i.'/'.$data['cateid']); ?>"><?php echo $i; ?></a></li>
-                                        <?php 
-                                            }
-                                        }
-                                        if ($data['page'] > 6 && ($data['page']-$data['index']) > 2) { echo '<li><a href="'.site_url('index.php/clipart/index/'.($data['index']+1).'/'.$data['cateid']).'">»</a></li>'; }
-                                        if ($data['page'] > 7 && ($data['page']-$data['index']) > 3) { echo '<li><a href="'.site_url('index.php/clipart/index/'.$data['page'].'/'.$data['cateid']).'">»</a></li>'; }
-                                    ?>
-                                </ul>
-                            <?php } ?>
-                            
-                        </div> -->
-                        <!-- end pagination -->
                     </div>
                                     </div>
                                     </div>
@@ -556,7 +757,7 @@ body .img-sld .owl-next:hover,body .img-sld .owl-prev:hover{ background-color: #
 <script>
         jQuery(function() {
           jQuery('.owl-carousel').owlCarousel({
-            loop: true,
+            loop: false,
             margin: 30,
             nav: true,
             navText: ["<img src='<?php echo site_url('../../wp-content/themes/twentynineteen/img/left-arrow.png'); ?>'>", "<img src='<?php echo site_url('../../wp-content/themes/twentynineteen/img/right-arrow.png'); ?>'>"],

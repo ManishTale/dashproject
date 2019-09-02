@@ -24,7 +24,8 @@
 			$id = $is_logged['id'];
 			?>
 			<!-- start: product -->
-			<?php $user_id = $art->session_id;
+			<?php 
+			// $user_id = $art->session_id;
 			if($id == 1){ ?>
 			<li <?php if($segments[0] == 'product') echo 'class="active open"' ?>>
 				<a href="<?php echo site_url('index.php/product'); ?>">

@@ -84,16 +84,13 @@ var dgUI = {
 						jQuery('#tree6').dynatree('getTree').loadKeyPath(treeActive, function(node, status){if(status == 'loaded') {node.expand();}else if(status == 'ok'){node.activate();}})					
 				},				
 				onClick: function (node, event) {
-					var cateId = node.data.id;	
-					// console.log(cateId);				
+					var cateId = node.data.id;					
 					if (event.target.className == 'dynatree-title')
 					{
-						// console.log(cateId);
 						jQuery('#clipart-rows').css('opacity', '0.5');
 						jQuery('#tree6 .dynatree-container').addClass('loading');
 						jQuery.ajax({url: admin_url(base_url + 'index.php/clipart/ajax/1/' + cateId) }).done(function( data ) {
 							jQuery('#clipart-rows').html(data);
-							// console.log(jQuery('#clipart-rows').html(data));
 							jQuery('#tree6 .dynatree-container').removeClass('loading');
 							fixLayout();
 						});

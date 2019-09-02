@@ -450,6 +450,7 @@ class Profile_Builder_Form_Creator{
 			<?php wp_nonce_field( 'wppb_verify_form_submission', $this->args['form_type'].'_'. $this->args['form_name'] .'_nonce_field' ); ?>
         </form>
             </div>
+            <div class="col-md-6" style="background-image: url('http://202.131.123.110:8082/wp-content/uploads/2019/08/ven.png'); background-repeat: no-repeat;"></div>
         </div>
        
         </div>
